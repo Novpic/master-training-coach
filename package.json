@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/server-pdf": "2.0.3",
+    "@tan-yong-sheng/paper-search-mcp-nodejs": "^0.2.1-beta.1",
+    "arxiv-mcp": "1.1.0",
+    "semantic-scholar-mcp": "1.0.2"
+  }
+}

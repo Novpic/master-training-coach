@@ -1,0 +1,25 @@
+node_modules/
+.DS_Store
+
+# Informacion personal y planes individualizados. No versionar.
+/planes/
+/docs/fotos/
+/docs/forots/
+
+# Archivos locales, secretos y resultados generados.
+.env
+.env.*
+!.env.example
+*.local
+*.log
+coverage/
+dist/
+build/
+
+# Datos privados o exportaciones locales.
+/datos/privado/
+/datos/local/
+/datos/datos-camilo.*
+*.sqlite
+*.sqlite3
+.serena/

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "academic-semantic-scholar": {
+      "type": "local",
+      "command": [
+        "node",
+        "node_modules/semantic-scholar-mcp/dist/index.js"
+      ],
+      "enabled": true
+    },
+    "academic-arxiv": {
+      "type": "local",
+      "command": [
+        "node",
+        "node_modules/arxiv-mcp/dist/index.js"
+      ],
+      "enabled": true
+    },
+    "academic-pdf": {
+      "type": "local",
+      "command": [
+        "node",
+        "node_modules/@modelcontextprotocol/server-pdf/dist/index.js",
+        "--stdio"
+      ],
+      "enabled": true
+    },
+    "paper-search-mcp-nodejs": {
+      "type": "local",
+      "command": [
+        "node",
+        "node_modules/@tan-yong-sheng/paper-search-mcp-nodejs/dist/server.js"
+      ],
+      "enabled": true
+    }
+  }
+}
