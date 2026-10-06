@@ -14,7 +14,7 @@ En adultos sanos con experiencia recreativa, ¿como contribuyen el entrenamiento
 
 ### El entrenamiento no sustituye el contexto energetico
 
-El entrenamiento aumenta el gasto y puede mejorar la salud aunque el peso no cambie. Para reducir grasa corporal normalmente debe existir un deficit energetico sostenido, pero su tamaño real no se puede inferir con precision a partir de una sesion o de un reloj. Las estrategias de perdida de peso deben considerar alimentacion, actividad cotidiana, sueño, recuperacion y capacidad de mantener el plan [Donnelly et al., 2009; Aragon et al., 2017].
+El entrenamiento aumenta el gasto y puede mejorar la salud aunque el peso no cambie. La reduccion de grasa corporal suele requerir que, a lo largo del tiempo, la energia utilizada supere a la ingerida; la magnitud real no se puede inferir con precision a partir de una sesion, un reloj o una formula. Las estrategias de perdida de peso deben considerar alimentacion, actividad cotidiana, sueño, recuperacion y capacidad de mantener el plan [Donnelly et al., 2009; Aragon et al., 2017].
 
 Esto no demuestra que haya que contar calorias, ni fija un porcentaje de deficit o un ritmo semanal valido para todos. Un deficit demasiado agresivo puede empeorar el rendimiento, el hambre, la recuperacion y la disponibilidad energetica. En deportistas con fatiga persistente, alteraciones menstruales, disfuncion sexual, frio constante, mareos u obsesion con peso/comida, hay que detener la escalada del entrenamiento y buscar ayuda profesional [Mountjoy et al., 2023].
 
@@ -28,7 +28,7 @@ Mantener cierta intensidad externa y acercarse al esfuerzo habitual sin forzar e
 
 ### Cardio continuo e intervalos
 
-En adultos de 18-45 anos con sobrepeso u obesidad, una revision y metaanalisis de 13 estudios encontro reducciones modestas de grasa corporal y cintura tanto con intervalos de alta intensidad como con ejercicio continuo moderado; no encontro diferencias significativas entre modalidades en las medidas de composicion corporal. Los protocolos promediaron 3 sesiones semanales durante unas 10 semanas, pero esa poblacion y duracion no representan a todos los adultos sanos [Wewege et al., 2017].
+En adultos de 18-45 anos con sobrepeso u obesidad, una revision y metaanalisis de 13 estudios encontro reducciones modestas de grasa corporal y cintura tanto con intervalos de alta intensidad como con ejercicio continuo moderado; no encontro diferencias significativas entre modalidades en las medidas de composicion corporal. Los protocolos promediaron 3 sesiones semanales durante unas 10 semanas, pero esa poblacion y duracion no representan a todos los adultos sanos [Wewege et al., 2017]. HIIT puede ahorrar tiempo en algunos protocolos, pero eso no equivale a una mayor perdida de grasa.
 
 Por tanto, HIIT puede ser una opcion eficiente en tiempo dentro de los protocolos incluidos, no una modalidad superior por definicion. El cardio continuo suele ser mas facil de repetir y combinar con fuerza. Los intervalos tienen un coste de fatiga mayor para algunas personas y no deben añadirse solo porque parezcan mas intensos.
 
@@ -42,7 +42,7 @@ Elegir primero la dosis minima que se pueda repetir. La siguiente tabla es un ej
 | Cardio continuo | Ejemplo: 2-3 sesiones de 20-40 min a intensidad conversacional | Añadir tiempo o una sesion, no todo a la vez. Variante de menor dosis: 1-2 sesiones faciles o caminatas. |
 | Intervalos | Ejemplo: 0-1 sesion semanal cuando ya se tolera el volumen base | Sustituir una sesion facil; no sumar intervalos a una semana ya fatigante. Variante de menor dosis: no incluirlos. |
 | Actividad diaria | Caminar y pausas activas segun preferencia | Usarla para aumentar movimiento sin convertir cada dia en una sesion dura. |
-| Recuperacion | Al menos un dia sin trabajo intenso | Reducir carga si empeoran sueño, dolor o rendimiento. |
+| Recuperacion | Puede ser util reservar dias o bloques sin trabajo intenso | Reducir carga si empeoran sueño, dolor o rendimiento. |
 
 ### Rutina A: dos dias de fuerza y dos de cardio
 
@@ -70,7 +70,7 @@ Cambiar solo una variable cada vez: duracion del cardio, una serie en algunos ej
 
 - No se demuestra que exista una zona de frecuencia cardiaca que maximice universalmente la perdida de grasa.
 - No se demuestra que entrenar en ayunas, sudar mas, hacer circuitos o descansar poco produzca una reduccion superior de grasa corporal.
-- No se demuestra que un ejercicio reduzca grasa de la zona que trabaja.
+- No se demuestra que un ejercicio reduzca grasa de la zona que trabaja [Ramirez-Campillo et al., 2022].
 - No se establece un deficit calorico, porcentaje de grasa, numero de pasos, RIR o ritmo de perdida valido para todos.
 - No se extrapolan directamente los resultados de adultos con sobrepeso u obesidad a personas delgadas, atletas, menores o poblaciones clinicas.
 
@@ -80,13 +80,6 @@ Dolor toracico, desmayo, falta de aire desproporcionada, mareo persistente, dolo
 
 Estas advertencias son criterios generales de seguridad, no resultados del metaanalisis de Wewege ni de la evidencia sobre fuerza en deficit. Las decisiones clinicas, la prescripcion de deficit y la adaptacion a enfermedad, medicacion, embarazo o trastornos alimentarios quedan fuera del alcance.
 
-## Referencias esenciales
+## Referencias
 
-1. Donnelly JE, Blair SN, Jakicic JM, et al. *Appropriate Physical Activity Intervention Strategies for Weight Loss and Prevention of Weight Regain for Adults*. **Med Sci Sports Exerc.** 2009;41(2):459-471. [DOI](https://doi.org/10.1249/MSS.0b013e3181949333) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/19127177/)
-2. Wewege M, van den Berg R, Ward RE, Keech A. *The effects of high-intensity interval training vs. moderate-intensity continuous training on body composition in overweight and obese adults*. **Obes Rev.** 2017;18(6):635-646. [DOI](https://doi.org/10.1111/obr.12532) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28401638/)
-3. American College of Sports Medicine. *Progression Models in Resistance Training for Healthy Adults*. **Med Sci Sports Exerc.** 2009;41(3):687-708. [DOI](https://doi.org/10.1249/MSS.0b013e3181915670) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/19204579/)
-4. Aragon AA, Schoenfeld BJ, Wildman R, et al. *International society of sports nutrition position stand: diets and body composition*. **J Int Soc Sports Nutr.** 2017;14:16. [DOI](https://doi.org/10.1186/s12970-017-0174-y) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28630601/)
-5. Mountjoy M, Ackerman KE, Bailey DM, et al. *2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs)*. **Br J Sports Med.** 2023;57(17):1073-1097. [DOI](https://doi.org/10.1136/bjsports-2023-106994) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37752011/)
-6. Schumann M, Feuerbacher JF, Sunkeler M, et al. *Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function*. **Sports Med.** 2022;52(3):601-612. [DOI](https://doi.org/10.1007/s40279-021-01587-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34757594/)
-7. Eddens L, van Someren K, Howatson G. *The Role of Intra-Session Exercise Sequence in the Interference Effect*. **Sports Med.** 2018;48(1):177-188. [DOI](https://doi.org/10.1007/s40279-017-0784-1) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28917030/)
-8. Murphy C, Koehler K. *Energy deficiency impairs resistance training gains in lean mass but not strength: A meta-analysis and meta-regression*. **Scand J Med Sci Sports.** 2022;32(1):125-137. [DOI](https://doi.org/10.1111/sms.14075) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34623696/)
+La lista completa, los enlaces y la relación con los demás documentos están en [Referencias esenciales](../referencias/referencias.md).

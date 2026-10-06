@@ -4,21 +4,21 @@
 
 El entrenamiento concurrente combina resistencia aerobica y fuerza dentro del mismo periodo de entrenamiento. Es apropiado para la mayoria de personas que quieren estar fuertes, correr y mejorar su salud. El conflicto aparece cuando la suma de estimulos supera la capacidad de recuperacion o cuando se pretende maximizar simultaneamente adaptaciones extremas.
 
-La llamada **interferencia** no significa que correr destruya el musculo. Describe una posible reduccion de una adaptacion respecto a hacer una sola modalidad, especialmente fuerza/potencia de tren inferior en algunos protocolos. Las revisiones recientes encuentran que el tamaño muscular puede mantenerse o aumentar con ambas modalidades, aunque la respuesta depende de dosis y contexto.
+La llamada **interferencia** no significa que correr destruya el musculo. Describe una posible reduccion de una adaptacion respecto a hacer una sola modalidad. Una revision y metaanalisis no encontro reducciones significativas en fuerza maxima o hipertrofia global, pero si una atenuacion pequeña de la fuerza explosiva, especialmente cuando ambas modalidades se realizaron en la misma sesion [Schumann et al., 2022]. La hipertrofia puede mantenerse o aumentar con ambas modalidades, aunque la respuesta depende de dosis y contexto [Lundberg et al., 2022].
 
 ## De que depende la interferencia
 
 ### Volumen e intensidad
 
-Un rodaje facil de 25 minutos no tiene el mismo coste que una tirada larga, cuestas y dos sesiones de intervalos. El riesgo sube cuando la carrera es abundante, intensa y se suma a mucho volumen de pierna.
+Un rodaje facil de 25 minutos no tiene el mismo coste que una tirada larga, cuestas y dos sesiones de intervalos. La carga total incluye duracion, intensidad, frecuencia, impacto, volumen de pierna y proximidad entre sesiones; las revisiones no fijan un umbral universal.
 
 ### Proximidad entre sesiones
 
-Correr duro con piernas fatigadas puede reducir carga y calidad en sentadilla, peso muerto o saltos. La separacion ideal depende de la persona. Separar varias horas las sesiones exigentes puede ser una herramienta practica cuando el calendario lo permite, pero estas referencias no demuestran un intervalo universal de 6-24 horas [Schumann et al., 2022; Eddens et al., 2018].
+Correr duro con piernas fatigadas puede reducir temporalmente la fuerza en una sesion posterior, especialmente si el ejercicio aerobico es intenso o prolongado [Markov et al., 2022]. La separacion ideal depende de la persona. Separar varias horas las sesiones exigentes puede ser una herramienta practica cuando el calendario lo permite, pero estas referencias no demuestran un intervalo universal de 6-24 horas [Schumann et al., 2022; Eddens et al., 2018].
 
 ### Modalidad
 
-Algunas comparaciones sugieren mas impacto o daño muscular con carrera que con bicicleta, pero los resultados dependen del protocolo y no deben tratarse como una regla universal [Wilson et al., 2012; Schumann et al., 2022]. Esto puede ser relevante si el objetivo principal es hipertrofia de piernas o hay dolor musculoesqueletico.
+Carrera y bicicleta difieren en impacto, contracciones excentricas y especificidad. Algunas sintesis encuentran señales distintas para fuerza o hipertrofia de fibras, pero los resultados globales son inconsistentes y no justifican una regla universal [Schumann et al., 2022; Lundberg et al., 2022]. Esto puede ser relevante si el objetivo principal es hipertrofia de piernas o hay dolor musculoesqueletico.
 
 ### Prioridad
 
@@ -63,7 +63,7 @@ Son plantillas para razonar, no recetas. Un corredor con historial de dolor pued
 
 ## Como ajustar la dosis
 
-Cuando el objetivo es hipertrofia, 2-4 sesiones de carrera de intensidad baja o moderada pueden ser una plantilla inicial, no una dosis universal. Cuando el objetivo es correr mas rapido, 2 sesiones de fuerza con menos series pueden ayudar a organizar el plan, pero la cantidad suficiente para conservar capacidad depende del volumen y del nivel.
+Cuando el objetivo es hipertrofia, algunas personas pueden tolerar 2-4 sesiones aerobicas y 1-2 sesiones de fuerza, pero estos rangos son heuristicas, no dosis universales demostradas. La cantidad suficiente para conservar capacidad depende del volumen y del nivel.
 
 Indicadores de mala integracion:
 
@@ -77,11 +77,8 @@ Primero reducir series accesorias, proximidad al fallo o volumen facil. No hacer
 
 ## Nutricion y recuperacion
 
-Los dias con doble sesion suelen necesitar mas energia y carbohidratos. La proteina diaria apoya reparacion muscular, pero no compensa una disponibilidad energetica cronicamente baja. Dormir y espaciar estimulos duros son parte del diseño, no una señal de falta de disciplina.
+Los dias con doble sesion pueden aumentar las demandas de energia, carbohidratos, liquidos y sueño, pero las cantidades dependen de duracion, intensidad, ambiente y objetivo. La proteina diaria apoya reparacion muscular, pero no compensa una disponibilidad energetica cronicamente baja [Mountjoy et al., 2023]. Dormir y espaciar estimulos duros son parte del diseño, no una señal de falta de disciplina.
 
-## Referencias esenciales
+## Referencias
 
-1. Wilson JM, Marin PJ, Rhea MR, et al. *Concurrent training: a meta-analysis examining interference*. **J Strength Cond Res.** 2012;26(8):2293-2307. [DOI](https://doi.org/10.1519/JSC.0b013e31823a3e2d) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/22002517/)
-2. Schumann M, Feuerbacher JF, Sünkeler M, et al. *Compatibility of Concurrent Aerobic and Strength Training*. **Sports Med.** 2022;52(3):601-612. [DOI](https://doi.org/10.1007/s40279-021-01587-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34757594/)
-3. Lundberg TR, Feuerbacher JF, Sünkeler M, Schumann M. *Concurrent Training and Muscle Fiber Hypertrophy*. **Sports Med.** 2022;52(10):2391-2403. [DOI](https://doi.org/10.1007/s40279-022-01688-x) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35476184/)
-4. Eddens L, van Someren K, Howatson G. *The Role of Intra-Session Exercise Sequence*. **Sports Med.** 2018;48(1):177-188. [DOI](https://doi.org/10.1007/s40279-017-0784-1)
+La lista completa, los enlaces y la relación con los demás documentos están en [Referencias esenciales](../referencias/referencias.md).

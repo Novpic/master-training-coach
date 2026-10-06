@@ -13,13 +13,13 @@ Coleccion curada de papers, revisiones sistematicas, metaanalisis y documentos d
 
 | Necesidad | Empezar por |
 | --- | --- |
-| Diseñar un plan de fuerza | [01 - Gimnasio](01-gimnasio.md) |
-| Maximizar hipertrofia | [02 - Hipertrofia](02-hipertrofia.md) |
-| Empezar o mejorar el trote | [03 - Carrera](03-carrera.md) |
-| Combinar carrera y pesas | [04 - Entrenamiento concurrente](04-entrenamiento-concurrente.md) |
-| Perder grasa y organizar rutinas | [07 - Quema de grasa](07-quema-de-grasa.md) |
-| Alimentacion y suplementos | [05 - Nutricion deportiva](05-nutricion-deportiva.md) |
-| Recuperacion, salud y prevencion | [06 - Recuperacion y salud](06-recuperacion-salud.md) |
+| Diseñar un plan de fuerza | [01 - Gimnasio](01-gimnasio/01-gimnasio.md) |
+| Maximizar hipertrofia | [02 - Hipertrofia](02-hipertrofia/02-hipertrofia.md) |
+| Empezar o mejorar el trote | [03 - Carrera](03-carrera/03-carrera.md) |
+| Combinar carrera y pesas | [04 - Entrenamiento concurrente](04-entrenamiento-concurrente/04-entrenamiento-concurrente.md) |
+| Perder grasa y organizar rutinas | [07 - Quema de grasa](07-quema-de-grasa/07-quema-de-grasa.md) |
+| Alimentacion y suplementos | [05 - Nutricion deportiva](05-nutricion-deportiva/05-nutricion-deportiva.md) |
+| Recuperacion, salud y prevencion | [06 - Recuperacion y salud](06-recuperacion-salud/06-recuperacion-salud.md) |
 | Encontrar una referencia concreta | [Bibliografia completa](bibliografia.md) |
 
 ## Principios que aparecen con mayor consistencia

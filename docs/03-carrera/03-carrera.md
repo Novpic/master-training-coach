@@ -12,13 +12,13 @@ Trotar es una actividad; entrenar carrera es organizar estimulos para mejorar un
 - **Densidad:** tiempo entre sesiones y distribucion de dias faciles/dificiles.
 - **Tipo:** rodaje facil, umbral, intervalos, cuestas, tirada larga y recuperacion.
 
-Subir simultaneamente frecuencia, kilometros e intensidad es una forma rapida de acumular fatiga. La progresion mas segura suele cambiar una variable principal cada vez y sostenerla el tiempo suficiente para observar respuesta.
+Subir simultaneamente frecuencia, kilometros e intensidad es una forma rapida de acumular fatiga. Una opcion prudente es cambiar principalmente una variable y sostenerla el tiempo suficiente para observar la respuesta; no existe una tasa de progresion universal validada.
 
 ## Intensidad sin depender de un unico numero
 
 ### Rodaje facil
 
-Debe permitir conversar en frases completas y terminar con sensacion de control. Desarrolla base aerobica y permite acumular volumen con menos fatiga. Para muchos corredores recreativos, debe ser la mayor parte del tiempo de carrera.
+Debe permitir conversar en frases completas y terminar con sensacion de control. Puede facilitar la acumulacion de volumen con menos fatiga que una sesion intensa, pero la proporcion adecuada depende del objetivo, experiencia y tolerancia [Garber et al., 2011].
 
 ### Umbral o tempo
 
@@ -26,7 +26,7 @@ Esfuerzo sostenido dificil pero controlado, sin ser un sprint. Se utiliza para m
 
 ### Intervalos
 
-Repeticiones relativamente intensas con recuperacion. Mejoran velocidad y tolerancia a esfuerzos altos, pero tienen gran coste musculoesqueletico y no deben dominar el plan de un principiante.
+Repeticiones relativamente intensas con recuperacion. Pueden aumentar la demanda mecanica y la fatiga, especialmente si se introducen demasiado pronto; no deben dominar el plan de un principiante.
 
 ### Tirada larga
 
@@ -48,17 +48,17 @@ No añadir intervalos hasta tolerar varias semanas de carrera facil. Para mejora
 
 La regla del 10% no es una ley validada para todos. Es mas util usar cambios pequeños, semanas estables y observacion de sintomas. Medir carga solo por kilometros es incompleto: intensidad, desnivel, superficie, aceleraciones, fatiga de piernas y fuerza tambien cuentan.
 
-Una carga aguda alta sobre una capacidad baja aumenta el riesgo de que el tejido no tolere el estimulo. La solucion no es evitar toda carga, sino construir capacidad de forma gradual y mantener sesiones faciles cuando el cuerpo lo necesita.
+Una carga aguda alta sobre una capacidad baja puede aumentar la probabilidad de que la exposicion exceda la capacidad actual, especialmente junto con otros factores; no existe un umbral universal de carga [Bertelsen et al., 2017; Gabbett, 2016]. La solucion no es evitar toda carga, sino construir capacidad de forma gradual y mantener sesiones faciles cuando el cuerpo lo necesita.
 
 ## Fuerza para corredores
 
-La fuerza pesada, la fuerza explosiva y la pliometria pueden mejorar economia de carrera y rendimiento, sobre todo en la evidencia disponible con corredores entrenados [Blagrove et al., 2018; Balsalobre-Fernandez et al., 2016]. Los mecanismos posibles incluyen mejor rigidez musculotendinosa, coordinacion y capacidad de producir fuerza. La fuerza no debe sustituir la carrera especifica: complementa el volumen y la calidad aerobica.
+La fuerza pesada, la fuerza explosiva y la pliometria pueden mejorar economia de carrera y rendimiento, sobre todo en la evidencia disponible con corredores entrenados; esto no demuestra por si solo una reduccion de lesiones en principiantes [Blagrove et al., 2018; Balsalobre-Fernandez et al., 2016]. Los mecanismos posibles incluyen mejor rigidez musculotendinosa, coordinacion y capacidad de producir fuerza. La fuerza no debe sustituir la carrera especifica: complementa el volumen y la calidad aerobica.
 
 Dos sesiones semanales pueden ser una opcion inicial de organizacion, no una dosis directamente validada para todo principiante; ajustar ejercicios y volumen para no deteriorar los rodajes [Blagrove et al., 2018].
 
 ## Prevencion de lesiones
 
-No existe una tecnica universal que elimine lesiones; la etiologia es multifactorial y la carga debe adaptarse a la capacidad y al contexto [Bertelsen et al., 2017]. Priorizar:
+No existe una tecnica universal que elimine lesiones; la etiologia es multifactorial y la carga debe adaptarse a la capacidad y al contexto [Bertelsen et al., 2017]. Como parte de un conjunto de medidas, puede ser razonable considerar:
 
 - Progresion de carga tolerable.
 - Fuerza de gemelos, soleo, cuádriceps, gluteos e isquiosurales.
@@ -66,15 +66,12 @@ No existe una tecnica universal que elimine lesiones; la etiologia es multifacto
 - Sueño y energia suficientes.
 - Respuesta temprana a dolor persistente.
 
-Dolor que altera la zancada, progresa durante la sesion o persiste y empeora semana a semana requiere reducir carga y valorar la causa. No entrenar repetidamente sobre dolor significativo para "probar" si desaparece.
+Dolor que altera la zancada, progresa durante la sesion o persiste y empeora semana a semana requiere reducir carga y valorar la causa; estos criterios son orientativos y no diagnostican una lesion. No entrenar repetidamente sobre dolor significativo para "probar" si desaparece.
 
 ## Como medir progreso
 
 Registrar distancia y tiempo, pero tambien RPE, frecuencia cardiaca si es fiable, ritmo en recorridos comparables, recuperacion, dolor y sensacion de esfuerzo. Una mejora puede ser correr el mismo ritmo con menor esfuerzo o recuperarse mejor, no solo correr mas rapido.
 
-## Referencias esenciales
+## Referencias
 
-1. Garber CE, Blissmer B, Deschenes MR, et al. *Quantity and Quality of Exercise for Developing and Maintaining Fitness*. **Med Sci Sports Exerc.** 2011;43(7):1334-1359. [DOI](https://doi.org/10.1249/MSS.0b013e318213fefb) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/21694556/)
-2. Blagrove RC, Howatson G, Hayes PR. *Effects of Strength Training on Running Performance*. **Sports Med.** 2018;48(5):1117-1149. [DOI](https://doi.org/10.1007/s40279-017-0835-7)
-3. Balsalobre-Fernandez C, Santos-Concejero J, Grivas GV. *Strength training and running economy*. **J Strength Cond Res.** 2016;30(8):2361-2368. [DOI](https://doi.org/10.1519/JSC.0000000000001316)
-4. Bertelsen ML, Hulme A, Petersen J, et al. *A framework for the etiology of running-related injuries*. **Scand J Med Sci Sports.** 2017;27(11):1170-1180. [DOI](https://doi.org/10.1111/sms.12883)
+La lista completa, los enlaces y la relación con los demás documentos están en [Referencias esenciales](../referencias/referencias.md).

@@ -20,7 +20,7 @@ El daño muscular no es el objetivo. Un programa que causa agujetas incapacitant
 
 Una serie cuenta mas cuando se realiza con tecnica estable, suficiente rango y cercania razonable al fallo. Las series de calentamiento no suelen contarse como series efectivas salvo que sean suficientemente exigentes.
 
-La literatura promedio muestra una relacion dosis-respuesta entre volumen semanal y masa muscular, pero no define un numero universal [Schoenfeld et al., 2017]. Como punto de partida practico, muchas personas pueden probar alrededor de **6-12 series duras por grupo muscular por semana**, repartidas en 2 sesiones si resulta comodo; estas cifras son heuristicas, no una dosis demostrada para cada persona. Algunas progresaran con menos; otras toleraran mas. Subir hacia **10-20** solo tiene sentido si el rendimiento y la recuperacion lo justifican.
+La literatura promedio muestra una relacion dosis-respuesta entre volumen semanal y masa muscular, pero no define un numero universal [Schoenfeld et al., 2017]. Como punto de partida practico, algunas personas pueden comenzar con un volumen moderado y ajustarlo segun rendimiento, experiencia y recuperacion; los rangos de **6-12** o **10-20 series** son heuristicas de programacion, no dosis demostradas para cada persona. Algunas progresaran con menos; otras toleraran mas [Schoenfeld et al., 2017].
 
 Señales de que el volumen es excesivo: rendimiento descendente durante varias semanas, dolor persistente, sueño alterado, perdida de motivacion, molestias articulares y ausencia de progreso pese a añadir trabajo.
 
@@ -30,9 +30,9 @@ La frecuencia facilita repartir volumen y mantener calidad. Cuando el volumen se
 
 ## Carga, repeticiones y esfuerzo
 
-La hipertrofia puede lograrse con un rango amplio de cargas, aunque la evidencia no establece que **5-30 repeticiones** sea un intervalo universal [Schoenfeld et al., 2017]. Las cargas ligeras suelen requerir mas esfuerzo y producir mayor incomodidad; las altas tienen mayor especificidad para fuerza. Escoger la carga que permita una tecnica consistente es una aplicacion practica, no una prescripcion rigida.
+La hipertrofia puede lograrse con cargas bajas y altas cuando el esfuerzo y el volumen son suficientes, aunque la evidencia no establece un intervalo universal de repeticiones [Schoenfeld et al., 2017]. Las cargas ligeras suelen requerir mas esfuerzo y producir mayor incomodidad; las altas tienen mayor especificidad para fuerza. Escoger la carga que permita una tecnica consistente es una aplicacion practica, no una prescripcion rigida.
 
-No hace falta fallar en todas las series: una revision sistematica no encontro una ventaja clara de entrenar siempre al fallo frente a no hacerlo para fuerza o hipertrofia [Grgic et al., 2022]. RIR 1-3 puede servir como heuristica para dosificar esfuerzo, pero no es un umbral universal. En principiantes, dejar mas repeticiones en reserva puede facilitar aprender tecnica y recuperar.
+No hace falta fallar en todas las series: una revision sistematica no encontro una ventaja clara de entrenar siempre al fallo frente a no hacerlo para fuerza o hipertrofia [Grgic et al., 2022]. RIR 1-3 puede servir como heuristica para dosificar esfuerzo, pero no es un umbral universal y su estimacion es imperfecta [Robinson et al., 2024]. En principiantes, dejar mas repeticiones en reserva puede facilitar aprender tecnica y recuperar.
 
 ## Rango de movimiento y seleccion
 
@@ -47,7 +47,7 @@ Una rutina de hipertrofia bien construida suele combinar:
 
 ## Descansos
 
-Descansos de 2-3 minutos en multiarticulares y 1-2 minutos en aislamientos son puntos de partida, no reglas universales. En hombres entrenados, descansos mas largos permitieron mejores resultados que descansos de 1 minuto en un estudio, por lo que el descanso debe permitir repetir rendimiento [Schoenfeld et al., 2016].
+Descansos relativamente largos pueden ayudar a conservar la tecnica y el rendimiento, pero los tiempos concretos son orientativos y deben ajustarse si caen las repeticiones o la calidad [Schoenfeld et al., 2016; Singer et al., 2024].
 
 ## Nutricion para ganar musculo
 
@@ -57,9 +57,11 @@ Descansos de 2-3 minutos en multiarticulares y 1-2 minutos en aislamientos son p
 - No obsesionarse con una ventana anabolica de minutos: el total diario y la regularidad son prioritarios.
 - Aceptar que ganar musculo y perder grasa simultaneamente es posible en algunos contextos, sobre todo principiantes o personas que vuelven a entrenar, pero no debe asumirse como garantizado.
 
-La guia de nutricion y suplementos esta en [05 - Nutricion deportiva](05-nutricion-deportiva.md).
+La guia de nutricion y suplementos esta en [05 - Nutricion deportiva](../05-nutricion-deportiva/05-nutricion-deportiva.md).
 
-## Ejemplo de progresion de ocho semanas
+## Ejemplo educativo de progresion de ocho semanas
+
+El siguiente esquema es un ejemplo de autorregulacion, no un protocolo validado ni una descarga obligatoria.
 
 - Semanas 1-2: 8 series semanales por musculo, RIR 3, aprender tecnica.
 - Semanas 3-4: mantener series y acercarse a RIR 2.
@@ -71,10 +73,6 @@ La guia de nutricion y suplementos esta en [05 - Nutricion deportiva](05-nutrici
 
 Una bascula no distingue musculo, grasa, agua y glucogeno. El dolor no mide crecimiento. Una sesion con mucho bombeo no demuestra mas hipertrofia. Un suplemento que aumenta peso corporal no necesariamente aumenta tejido contractil. Las comparaciones deben usar varias semanas y condiciones parecidas.
 
-## Referencias esenciales
+## Referencias
 
-1. Schoenfeld BJ, Ogborn D, Krieger JW. *Dose-response relationship between weekly resistance training volume and increases in muscle mass*. **J Sports Sci.** 2017;35(11):1073-1082. [DOI](https://doi.org/10.1080/02640414.2016.1210197)
-2. Schoenfeld BJ, Grgic J, Krieger J. *Resistance training frequency and muscle hypertrophy*. **J Sports Sci.** 2019;37(11):1286-1295. [DOI](https://doi.org/10.1080/02640414.2018.1555906)
-3. Grgic J, Schoenfeld BJ, Orazem J, Sabol F. *Resistance training to repetition failure or non-failure*. **J Sport Health Sci.** 2022;11(2):202-211. [DOI](https://doi.org/10.1016/j.jshs.2021.01.007)
-4. Jager R, Kerksick CM, Campbell BI, et al. *ISSN position stand: protein and exercise*. **J Int Soc Sports Nutr.** 2017;14:20. [DOI](https://doi.org/10.1186/s12970-017-0177-8)
-5. Morton RW, Murphy KT, McKellar SR, et al. *Protein supplementation and resistance training-induced gains*. **Br J Sports Med.** 2018;52(6):376-384. [DOI](https://doi.org/10.1136/bjsports-2017-097608)
+La lista completa, los enlaces y la relación con los demás documentos están en [Referencias esenciales](../referencias/referencias.md).

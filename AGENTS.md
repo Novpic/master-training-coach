@@ -6,7 +6,6 @@
 - `docs/` contiene la documentación educativa; `docs/metodologia/README.md` es la fuente de verdad para investigar y publicar temas nuevos.
 - `docs/bibliografia.md` es el índice temático y `docs/referencia.bib` la bibliografía normalizada; deben mantenerse sincronizados con las citas de los documentos.
 - `.agent/verificador-verdad-deportiva.md` define la auditoría independiente y `.agent/investigador-ejecutor-evidencia.md` define la investigación y las ediciones posteriores.
-- Antes de corregir un tema, leer la auditoría más reciente; la auditoría consolidada actual es `auditoria-verificador-2026-10-04.md`.
 
 ## Flujo obligatorio
 

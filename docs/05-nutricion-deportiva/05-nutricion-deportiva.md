@@ -17,7 +17,7 @@ El gasto diario cambia con pasos, carrera, pesas, trabajo y termogenesis. El mis
 
 ### Para hipertrofia
 
-Un superavit pequeño puede facilitar ganar masa limitando la ganancia de grasa frente a uno agresivo, pero el tamaño optimo depende de la persona y no queda fijado por estas fuentes [Aragon et al., 2017]. El peso puede subir por agua y glucogeno, por lo que usar promedio de 7 dias y medidas mensuales es mas informativo que una medicion aislada.
+Un superavit pequeño se utiliza a menudo como estrategia practica para intentar favorecer la ganancia de masa mientras se limita la ganancia de grasa, pero la magnitud optima no esta establecida universalmente y depende de la persona [Aragon et al., 2017]. El peso puede subir por agua y glucogeno, por lo que usar promedio de 7 dias y medidas mensuales es mas informativo que una medicion aislada.
 
 ### Para perdida de grasa
 
@@ -29,9 +29,9 @@ Priorizar disponibilidad de carbohidratos alrededor de sesiones largas o intensa
 
 ## Proteina
 
-La proteina aporta aminoacidos para sintesis y reparacion. El total diario importa mas que una ventana de minutos. Una guia frecuente para personas que entrenan es **1.4-2.0 g/kg/dia**, aunque el rango es orientativo y debe interpretarse junto con objetivo, dieta y contexto [Jager et al., 2017]. Ajustar hacia arriba durante deficit energetico o en personas muy magras requiere prudencia y supervision; no es una recomendacion para enfermedad renal.
+La proteina aporta aminoacidos para sintesis y reparacion. El total diario importa mas que una ventana de minutos. Una guia frecuente para personas que entrenan es **1.4-2.0 g/kg/dia**, aunque el rango es orientativo y debe interpretarse junto con objetivo, dieta y contexto [Jager et al., 2017]. La suplementacion puede aportar beneficios modestos cuando la ingesta total es insuficiente, pero no demuestra que mas proteina sea siempre mejor [Morton et al., 2018]. Ajustar hacia arriba durante deficit energetico o en personas muy magras requiere prudencia y supervision; no es una recomendacion para enfermedad renal.
 
-Distribuir en 3-5 comidas con una porcion significativa de proteina puede facilitar alcanzar el total y estimular repetidamente la sintesis proteica. Fuentes animales suelen contener todos los aminoacidos esenciales; dietas vegetales tambien pueden funcionar combinando variedad y suficiente cantidad.
+Distribuir en 3-5 comidas con una porcion significativa de proteina puede facilitar alcanzar el total diario; no es una distribucion obligatoria cuando la ingesta total es adecuada [Jager et al., 2017; Kerksick et al., 2017]. Fuentes animales suelen contener todos los aminoacidos esenciales; dietas vegetales tambien pueden funcionar combinando variedad y suficiente cantidad.
 
 ## Carbohidratos
 
@@ -45,7 +45,7 @@ Las grasas ayudan a cubrir energia y funciones hormonales. Evitar eliminarlas. P
 
 ## Hidratacion
 
-La sudoracion varia ampliamente. Pesarse antes y despues de sesiones largas, registrando liquidos ingeridos, puede estimar la perdida, aunque la medida tiene error. En calor o sesiones prolongadas, sodio y carbohidratos pueden ser utiles. Beber compulsivamente hasta ganar peso durante ejercicio puede causar hiponatremia.
+La sudoracion varia ampliamente. Pesarse antes y despues de sesiones largas, registrando liquidos ingeridos, puede estimar la perdida, aunque la medida tiene error. En calor o sesiones prolongadas, sodio y carbohidratos pueden ser utiles. No es necesario ni seguro beber hasta ganar peso durante el ejercicio; la sobrehidratacion puede contribuir a hiponatremia asociada al ejercicio [Sawka et al., 2007; Hew-Butler et al., 2015].
 
 ## Suplementos con evidencia razonable
 
@@ -61,7 +61,7 @@ Puede mejorar alerta y rendimiento agudo en algunas personas. La respuesta depen
 
 Es un alimento practico, no un requisito. Puede ayudar si cuesta alcanzar proteina con comida. Revisar tolerancia, ingredientes y certificacion de terceros cuando sea posible.
 
-La eficacia de muchos productos "quemagrasa", boosters hormonales y mezclas propietarias es incierta. La contaminacion y el etiquetado incorrecto requieren comprobacion especifica del producto y del programa de certificacion; no se presenta aqui una tasa general porque no se ha verificado una fuente unica aplicable a todos los suplementos.
+La eficacia de muchos productos "quemagrasa", boosters hormonales y mezclas propietarias es incierta. La certificacion de terceros puede aportar control adicional, pero no garantiza riesgo cero ni sustituye revisar producto, lote, ingredientes y regulacion local [Maughan et al., 2018]. No se presenta aqui una tasa general de contaminacion porque depende del producto y no se ha verificado una fuente unica aplicable a todos los suplementos.
 
 ## Modelo de dia con fuerza y carrera
 
@@ -77,11 +77,6 @@ Este modelo debe adaptarse a preferencias, cultura, presupuesto, alergias y obje
 
 Fatiga persistente, lesiones repetidas, perdida de menstruacion, disfuncion sexual, frio constante, obsesion con comida/peso, mareos o perdida rapida de peso justifican evaluacion medica y dietetica. No intentar corregir una posible baja disponibilidad energetica solo con un suplemento.
 
-## Referencias esenciales
+## Referencias
 
-1. Jager R, Kerksick CM, Campbell BI, et al. *ISSN position stand: protein and exercise*. **J Int Soc Sports Nutr.** 2017;14:20. [DOI](https://doi.org/10.1186/s12970-017-0177-8) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28642676/)
-2. Kerksick CM, Arent S, Schoenfeld BJ, et al. *ISSN position stand: nutrient timing*. **J Int Soc Sports Nutr.** 2017;14:33. [DOI](https://doi.org/10.1186/s12970-017-0189-4) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28919842/)
-3. Rodriguez NR, DiMarco NM, Langley S. *Nutrition and athletic performance*. **Med Sci Sports Exerc.** 2009;41(3):709-731. [DOI](https://doi.org/10.1249/MSS.0b013e31890eb86)
-4. Sawka MN, Burke LM, Eichner ER, et al. *Exercise and fluid replacement*. **Med Sci Sports Exerc.** 2007;39(2):377-390. [DOI](https://doi.org/10.1249/mss.0b013e31802ca597)
-5. Kreider RB, Kalman DS, Antonio J, et al. *Creatine supplementation in exercise, sport, and medicine*. **J Int Soc Sports Nutr.** 2017;14:18. [DOI](https://doi.org/10.1186/s12970-017-0173-z)
-6. Guest NS, VanDusseldorp TA, Nelson MT, et al. *Caffeine and exercise performance*. **J Int Soc Sports Nutr.** 2021;18(1):1. [DOI](https://doi.org/10.1186/s12970-020-00383-4)
+La lista completa, los enlaces y la relación con los demás documentos están en [Referencias esenciales](../referencias/referencias.md).

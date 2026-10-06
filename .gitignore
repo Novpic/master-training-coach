@@ -23,3 +23,5 @@ build/
 *.sqlite
 *.sqlite3
 .serena/
+
+docs/referencias/papers-pdf/
