@@ -1,0 +1,938 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REVIEW ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.104,
+          68.90399999999998
+        ],
+        [
+          151.38400000000001,
+          68.90399999999998
+        ],
+        [
+          151.38400000000001,
+          80.64899999999999
+        ],
+        [
+          44.104,
+          80.64899999999999
+        ]
+      ]
+    },
+    {
+      "title": "A framework for the etiology of running-related injuries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.104,
+          98.65799999999999
+        ],
+        [
+          479.78000000000003,
+          98.65799999999999
+        ],
+        [
+          479.78000000000003,
+          118.23299999999999
+        ],
+        [
+          44.104,
+          118.23299999999999
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.104,
+          364.095
+        ],
+        [
+          103.10799999999999,
+          364.095
+        ],
+        [
+          103.10799999999999,
+          375.05699999999996
+        ],
+        [
+          44.104,
+          375.05699999999996
+        ]
+      ]
+    },
+    {
+      "title": "Funding information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.104,
+          425.169
+        ],
+        [
+          119.2,
+          425.169
+        ],
+        [
+          119.2,
+          436.13100000000003
+        ],
+        [
+          44.104,
+          436.13100000000003
+        ]
+      ]
+    },
+    {
+      "title": "KEY WORDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.62,
+          515.214
+        ],
+        [
+          268.2,
+          515.214
+        ],
+        [
+          268.2,
+          526.176
+        ],
+        [
+          205.62,
+          526.176
+        ]
+      ]
+    },
+    {
+      "title": "1 | INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.104,
+          627.966
+        ],
+        [
+          193.104,
+          627.966
+        ],
+        [
+          193.104,
+          642.843
+        ],
+        [
+          44.104,
+          642.843
+        ]
+      ]
+    },
+    {
+      "title": "2 | A FRAMEWORK FOR THE ETIOLOGY OF RUNNING INJURIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.17199999999997,
+          498.771
+        ],
+        [
+          546.532,
+          498.771
+        ],
+        [
+          546.532,
+          525.393
+        ],
+        [
+          302.17199999999997,
+          525.393
+        ]
+      ]
+    },
+    {
+      "title": "2.1 | Part A: Structure-specific load capacity when entering a running session",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.104,
+          530.091
+        ],
+        [
+          258.068,
+          530.091
+        ],
+        [
+          258.068,
+          558.279
+        ],
+        [
+          44.104,
+          558.279
+        ]
+      ]
+    },
+    {
+      "title": "2.2 | Part B: Structure-specific cumulative load per running session",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.364,
+          530.091
+        ],
+        [
+          545.9359999999999,
+          530.091
+        ],
+        [
+          545.9359999999999,
+          558.279
+        ],
+        [
+          303.364,
+          558.279
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1 | Load distribution per stride",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.315999999999995,
+          375.05699999999996
+        ],
+        [
+          238.99599999999998,
+          375.05699999999996
+        ],
+        [
+          238.99599999999998,
+          391.5
+        ],
+        [
+          42.315999999999995,
+          391.5
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2 | Load magnitude per stride",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.315999999999995,
+          685.908
+        ],
+        [
+          233.036,
+          685.908
+        ],
+        [
+          233.036,
+          701.568
+        ],
+        [
+          42.315999999999995,
+          701.568
+        ]
+      ]
+    },
+    {
+      "title": "2.3 | Part C: Reduction in the structure-specific load capacity during a running session",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.17199999999997,
+          194.96699999999998
+        ],
+        [
+          549.512,
+          194.96699999999998
+        ],
+        [
+          549.512,
+          222.37199999999999
+        ],
+        [
+          302.17199999999997,
+          222.37199999999999
+        ]
+      ]
+    },
+    {
+      "title": "2.4 | Part D: Exceeding the structure-specific load capacity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.17199999999997,
+          440.046
+        ],
+        [
+          516.136,
+          440.046
+        ],
+        [
+          516.136,
+          468.2339999999999
+        ],
+        [
+          302.17199999999997,
+          468.2339999999999
+        ]
+      ]
+    },
+    {
+      "title": "3 | IMPLICATIONS OF THE FRAMEWORK",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.104,
+          446.30999999999995
+        ],
+        [
+          243.76399999999998,
+          446.30999999999995
+        ],
+        [
+          243.76399999999998,
+          473.715
+        ],
+        [
+          44.104,
+          473.715
+        ]
+      ]
+    },
+    {
+      "title": "3.1 | Implications for hypothesis-making and research question",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.104,
+          608.3910000000001
+        ],
+        [
+          269.988,
+          608.3910000000001
+        ],
+        [
+          269.988,
+          636.579
+        ],
+        [
+          44.104,
+          636.579
+        ]
+      ]
+    },
+    {
+      "title": "3.2 | Implications for data analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.315999999999995,
+          115.88399999999999
+        ],
+        [
+          232.44,
+          115.88399999999999
+        ],
+        [
+          232.44,
+          130.761
+        ],
+        [
+          42.315999999999995,
+          130.761
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 | Change in the amount of running participation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.315999999999995,
+          349.218
+        ],
+        [
+          267.604,
+          349.218
+        ],
+        [
+          267.604,
+          377.40599999999995
+        ],
+        [
+          42.315999999999995,
+          377.40599999999995
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 | Change in the load distribution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.315999999999995,
+          646.7579999999999
+        ],
+        [
+          256.28,
+          646.7579999999999
+        ],
+        [
+          256.28,
+          662.4179999999999
+        ],
+        [
+          42.315999999999995,
+          662.4179999999999
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3 | Change in the magnitude of load per stride",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.17199999999997,
+          231.76799999999997
+        ],
+        [
+          525.672,
+          231.76799999999997
+        ],
+        [
+          525.672,
+          259.956
+        ],
+        [
+          302.17199999999997,
+          259.956
+        ]
+      ]
+    },
+    {
+      "title": "3.2.4 | Change in load capacity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.17199999999997,
+          452.5739999999999
+        ],
+        [
+          480.37600000000003,
+          452.5739999999999
+        ],
+        [
+          480.37600000000003,
+          468.2339999999999
+        ],
+        [
+          302.17199999999997,
+          468.2339999999999
+        ]
+      ]
+    },
+    {
+      "title": "3.2.5 | Applying statistics to analyze changes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.17199999999997,
+          672.597
+        ],
+        [
+          551.896,
+          672.597
+        ],
+        [
+          551.896,
+          688.257
+        ],
+        [
+          302.17199999999997,
+          688.257
+        ]
+      ]
+    },
+    {
+      "title": "3.3 | Implications for data collection procedures",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.91199999999999,
+          194.184
+        ],
+        [
+          247.93599999999998,
+          194.184
+        ],
+        [
+          247.93599999999998,
+          222.37199999999999
+        ],
+        [
+          42.91199999999999,
+          222.37199999999999
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 | Quantifying running participation in epidemiological studies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.91199999999999,
+          310.068
+        ],
+        [
+          287.272,
+          310.068
+        ],
+        [
+          287.272,
+          338.256
+        ],
+        [
+          42.91199999999999,
+          338.256
+        ]
+      ]
+    },
+    {
+      "title": "3.3.2 | Future data collection challenges",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.76800000000003,
+          104.13900000000001
+        ],
+        [
+          529.8439999999999,
+          104.13900000000001
+        ],
+        [
+          529.8439999999999,
+          118.23299999999999
+        ],
+        [
+          302.76800000000003,
+          118.23299999999999
+        ]
+      ]
+    },
+    {
+      "title": "4 | PERSPECTIVES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.76800000000003,
+          627.183
+        ],
+        [
+          449.384,
+          627.183
+        ],
+        [
+          449.384,
+          642.06
+        ],
+        [
+          302.76800000000003,
+          642.06
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.72,
+          185.57099999999997
+        ],
+        [
+          177.01199999999997,
+          185.57099999999997
+        ],
+        [
+          177.01199999999997,
+          198.099
+        ],
+        [
+          41.72,
+          198.099
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.72,
+          266.22
+        ],
+        [
+          122.17999999999998,
+          266.22
+        ],
+        [
+          122.17999999999998,
+          278.748
+        ],
+        [
+          41.72,
+          278.748
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "PageFooter",
+          8
+        ],
+        [
+          "PageHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "PageHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bertelsen2017etiology"
+}

@@ -1,0 +1,1279 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.22330349938994,
+          207.48430802846877
+        ],
+        [
+          188.44139099121094,
+          207.48430802846877
+        ],
+        [
+          188.44139099121094,
+          221.1741943359375
+        ],
+        [
+          142.22330349938994,
+          221.1741943359375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.38119276224515,
+          658.8171610341418
+        ],
+        [
+          210.0024552429353,
+          658.8171610341418
+        ],
+        [
+          210.0024552429353,
+          673.5137100219727
+        ],
+        [
+          142.38119276224515,
+          673.5137100219727
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          350.9763432654085,
+          679.3427722848057
+        ],
+        [
+          397.48038357751494,
+          679.3427722848057
+        ],
+        [
+          397.48038357751494,
+          694.777099609375
+        ],
+        [
+          350.9763432654085,
+          694.777099609375
+        ]
+      ]
+    },
+    {
+      "title": "Inclusion criteria",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          350.91717344807734,
+          692.3482293695408
+        ],
+        [
+          423.13090027009207,
+          692.3482293695408
+        ],
+        [
+          423.13090027009207,
+          706.3005981445312
+        ],
+        [
+          350.91717344807734,
+          706.3005981445312
+        ]
+      ]
+    },
+    {
+      "title": "A systematic review, meta-analysis and meta-\nregression of the effect of protein supplementation \non resistance training-induced gains in muscle mass \nand strength in healthy adults",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.81981253443797,
+          44.559911985460374
+        ],
+        [
+          544.0126342773438,
+          44.559911985460374
+        ],
+        [
+          544.0126342773438,
+          140.2991943359375
+        ],
+        [
+          141.81981253443797,
+          140.2991943359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.99278076709968,
+          471.91703956323033
+        ],
+        [
+          103.98377248922583,
+          471.91703956323033
+        ],
+        [
+          103.98377248922583,
+          482.92205839364226
+        ],
+        [
+          38.99278076709968,
+          482.92205839364226
+        ]
+      ]
+    },
+    {
+      "title": "Search strategy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.61414433246295,
+          626.2565207909141
+        ],
+        [
+          104.14601415831136,
+          626.2565207909141
+        ],
+        [
+          104.14601415831136,
+          640.5021057128906
+        ],
+        [
+          38.61414433246295,
+          640.5021057128906
+        ]
+      ]
+    },
+    {
+      "title": "Data extraction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.5136969347745,
+          571.3471128699687
+        ],
+        [
+          369.5863160102133,
+          571.3471128699687
+        ],
+        [
+          369.5863160102133,
+          585.5021057128906
+        ],
+        [
+          303.5136969347745,
+          585.5021057128906
+        ]
+      ]
+    },
+    {
+      "title": "Data syntheses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.99916334176243,
+          323.03075924045754
+        ],
+        [
+          102.47638531355773,
+          323.03075924045754
+        ],
+        [
+          102.47638531355773,
+          337.0021057128906
+        ],
+        [
+          38.99916334176243,
+          337.0021057128906
+        ]
+      ]
+    },
+    {
+      "title": "Meta-analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.94136796850401,
+          692.1841269863226
+        ],
+        [
+          99.97654643407095,
+          692.1841269863226
+        ],
+        [
+          99.97654643407095,
+          706.4921035766602
+        ],
+        [
+          38.94136796850401,
+          706.4921035766602
+        ]
+      ]
+    },
+    {
+      "title": "Heterogeneity and risk of bias",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.4289853650917,
+          112.63801561739221
+        ],
+        [
+          428.06730778691747,
+          112.63801561739221
+        ],
+        [
+          428.06730778691747,
+          127.1688232421875
+        ],
+        [
+          303.4289853650917,
+          127.1688232421875
+        ]
+      ]
+    },
+    {
+      "title": "Meta-regression",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.67849277909517,
+          270.39260884429956
+        ],
+        [
+          372.50916296048484,
+          270.39260884429956
+        ],
+        [
+          372.50916296048484,
+          284.8254089355469
+        ],
+        [
+          303.67849277909517,
+          284.8254089355469
+        ]
+      ]
+    },
+    {
+      "title": "Subgroup analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.00911560827296,
+          713.8237215930048
+        ],
+        [
+          381.95157083275933,
+          713.8237215930048
+        ],
+        [
+          381.95157083275933,
+          728.4821014404297
+        ],
+        [
+          303.00911560827296,
+          728.4821014404297
+        ]
+      ]
+    },
+    {
+      "title": "Break point analysis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.19141656986111,
+          133.80685695687816
+        ],
+        [
+          123.32020764867364,
+          133.80685695687816
+        ],
+        [
+          123.32020764867364,
+          148.02911376953125
+        ],
+        [
+          39.19141656986111,
+          148.02911376953125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.82717171003596,
+          311.0368244866361
+        ],
+        [
+          77.09730987164475,
+          311.0368244866361
+        ],
+        [
+          77.09730987164475,
+          326.6766662597656
+        ],
+        [
+          38.82717171003596,
+          326.6766662597656
+        ]
+      ]
+    },
+    {
+      "title": "Participant characteristics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.67417604076472,
+          323.74119076535203
+        ],
+        [
+          145.44553872980458,
+          323.74119076535203
+        ],
+        [
+          145.44553872980458,
+          338.1811828613281
+        ],
+        [
+          38.67417604076472,
+          338.1811828613281
+        ]
+      ]
+    },
+    {
+      "title": "RET characteristics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.53540586764626,
+          425.01226766296327
+        ],
+        [
+          116.85876280354613,
+          425.01226766296327
+        ],
+        [
+          116.85876280354613,
+          439.82415771484375
+        ],
+        [
+          38.53540586764626,
+          439.82415771484375
+        ]
+      ]
+    },
+    {
+      "title": "Protein supplementation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.6996433440624,
+          559.7297075107707
+        ],
+        [
+          141.66707743685552,
+          559.7297075107707
+        ],
+        [
+          141.66707743685552,
+          574.4716949462891
+        ],
+        [
+          38.6996433440624,
+          574.4716949462891
+        ]
+      ]
+    },
+    {
+      "title": "Heterogeneity and risk of bias",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.0744704239314,
+          232.5887922047443
+        ],
+        [
+          427.4324520697221,
+          232.5887922047443
+        ],
+        [
+          427.4324520697221,
+          247.1541748046875
+        ],
+        [
+          303.0744704239314,
+          247.1541748046875
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity analyses",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.94628060674785,
+          345.95383949748066
+        ],
+        [
+          384.67894892848705,
+          345.95383949748066
+        ],
+        [
+          384.67894892848705,
+          359.9266662597656
+        ],
+        [
+          302.94628060674785,
+          359.9266662597656
+        ]
+      ]
+    },
+    {
+      "title": "Meta-analyses",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.73885408877123,
+          513.7459865494423
+        ],
+        [
+          364.5426560409123,
+          513.7459865494423
+        ],
+        [
+          364.5426560409123,
+          527.6991882324219
+        ],
+        [
+          302.73885408877123,
+          527.6991882324219
+        ]
+      ]
+    },
+    {
+      "title": "Meta-regression.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.9568867335091,
+          659.1207001049412
+        ],
+        [
+          374.2352600097656,
+          659.1207001049412
+        ],
+        [
+          374.2352600097656,
+          673.4717025756836
+        ],
+        [
+          302.9568867335091,
+          673.4717025756836
+        ]
+      ]
+    },
+    {
+      "title": "Break point analysis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          39.2688378591081,
+          43.80424476457835
+        ],
+        [
+          122.49688128800476,
+          43.80424476457835
+        ],
+        [
+          122.49688128800476,
+          57.6688232421875
+        ],
+        [
+          39.2688378591081,
+          57.6688232421875
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.50401986456037,
+          198.7331571786104
+        ],
+        [
+          93.19013146849663,
+          198.7331571786104
+        ],
+        [
+          93.19013146849663,
+          213.16876220703125
+        ],
+        [
+          38.50401986456037,
+          213.16876220703125
+        ]
+      ]
+    },
+    {
+      "title": "Strength",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.45086193324937,
+          89.11557954926892
+        ],
+        [
+          341.67983263145464,
+          89.11557954926892
+        ],
+        [
+          341.67983263145464,
+          102.8817138671875
+        ],
+        [
+          303.45086193324937,
+          102.8817138671875
+        ]
+      ]
+    },
+    {
+      "title": "Muscle mass",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.0470502646804,
+          305.8550606386294
+        ],
+        [
+          358.7928983366459,
+          305.8550606386294
+        ],
+        [
+          358.7928983366459,
+          319.3816833496094
+        ],
+        [
+          303.0470502646804,
+          319.3816833496094
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.08729856861027,
+          625.3051296734832
+        ],
+        [
+          362.3808845885154,
+          625.3051296734832
+        ],
+        [
+          362.3808845885154,
+          640.4717102050781
+        ],
+        [
+          303.08729856861027,
+          640.4717102050781
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.159419119808476,
+          110.2512320283452
+        ],
+        [
+          104.62503082506001,
+          110.2512320283452
+        ],
+        [
+          104.62503082506001,
+          122.55373966840216
+        ],
+        [
+          44.159419119808476,
+          122.55373966840216
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.47995348721367,
+          132.26021716412336
+        ],
+        [
+          95.95329092491784,
+          132.26021716412336
+        ],
+        [
+          95.95329092491784,
+          143.71126636364642
+        ],
+        [
+          45.47995348721367,
+          143.71126636364642
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.41371990751559,
+          187.26370023127654
+        ],
+        [
+          105.60167642204226,
+          187.26370023127654
+        ],
+        [
+          105.60167642204226,
+          199.262211180949
+        ],
+        [
+          44.41371990751559,
+          199.262211180949
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          39.327208780821984,
+          554.6947022637069
+        ],
+        [
+          91.94486223119932,
+          554.6947022637069
+        ],
+        [
+          91.94486223119932,
+          566.8839948184092
+        ],
+        [
+          39.327208780821984,
+          566.8839948184092
+        ]
+      ]
+    },
+    {
+      "title": "strength in healthy adults\ntraining-induced gains in muscle mass and \nsupplementation on resistance\nmeta-regression of the effect of protein \nA systematic review, meta-analysis and",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          179.98903039120307,
+          40.17707264761393
+        ],
+        [
+          495.760009765625,
+          40.17707264761393
+        ],
+        [
+          495.760009765625,
+          118.16510009765625
+        ],
+        [
+          179.98903039120307,
+          118.16510009765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          96.80886102863764,
+          270.429091599578
+        ],
+        [
+          163.43925139765895,
+          270.429091599578
+        ],
+        [
+          163.43925139765895,
+          284.93238294057
+        ],
+        [
+          96.80886102863764,
+          284.93238294057
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.98140975990584,
+          368.94137215569253
+        ],
+        [
+          117.95203192107924,
+          368.94137215569253
+        ],
+        [
+          117.95203192107924,
+          384.5320129394531
+        ],
+        [
+          80.98140975990584,
+          384.5320129394531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          377
+        ],
+        [
+          "Line",
+          160
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          353
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "ChemicalBlock",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          369
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          363
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          496
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "Reference",
+          20
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          615
+        ],
+        [
+          "Line",
+          157
+        ],
+        [
+          "Reference",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/morton2018protein"
+}

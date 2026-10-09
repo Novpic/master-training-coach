@@ -1,0 +1,1555 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sleep and the athlete: narrative review and 2021 \nexpert consensus recommendations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.88541902402787,
+          42.29043917705474
+        ],
+        [
+          519.7484741210938,
+          42.29043917705474
+        ],
+        [
+          519.7484741210938,
+          92.29913330078125
+        ],
+        [
+          142.88541902402787,
+          92.29913330078125
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence to",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.88055168171073,
+          219.8357352021733
+        ],
+        [
+          106.33016614169257,
+          219.8357352021733
+        ],
+        [
+          106.33016614169257,
+          232.87420654296875
+        ],
+        [
+          38.88055168171073,
+          232.87420654296875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.54508376421796,
+          190.02216244734493
+        ],
+        [
+          188.44082641601562,
+          190.02216244734493
+        ],
+        [
+          188.44082641601562,
+          204.37420654296875
+        ],
+        [
+          142.54508376421796,
+          204.37420654296875
+        ]
+      ]
+    },
+    {
+      "title": "PREAMBLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.12469859087196,
+          548.6681268996399
+        ],
+        [
+          190.30953510582296,
+          548.6681268996399
+        ],
+        [
+          190.30953510582296,
+          563.53125
+        ],
+        [
+          142.12469859087196,
+          563.53125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          352.0880623536386,
+          346.7316555062817
+        ],
+        [
+          420.10130483017156,
+          346.7316555062817
+        ],
+        [
+          420.10130483017156,
+          361.537109375
+        ],
+        [
+          352.0880623536386,
+          361.537109375
+        ]
+      ]
+    },
+    {
+      "title": "The need for sleep",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          352.0259832963535,
+          358.8094948110319
+        ],
+        [
+          430.4532052527747,
+          358.8094948110319
+        ],
+        [
+          430.4532052527747,
+          373.04156494140625
+        ],
+        [
+          352.0259832963535,
+          373.04156494140625
+        ]
+      ]
+    },
+    {
+      "title": "Measuring sleep",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          352.0571144546009,
+          670.5992636820187
+        ],
+        [
+          422.39997091221267,
+          670.5992636820187
+        ],
+        [
+          422.39997091221267,
+          684.4870986938477
+        ],
+        [
+          352.0571144546009,
+          684.4870986938477
+        ]
+      ]
+    },
+    {
+      "title": "Polysomnography",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.69650789352148,
+          145.19714571598905
+        ],
+        [
+          105.91061708849082,
+          145.19714571598905
+        ],
+        [
+          105.91061708849082,
+          159.25189208984375
+        ],
+        [
+          38.69650789352148,
+          159.25189208984375
+        ]
+      ]
+    },
+    {
+      "title": "Activity monitoring",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.47943163278421,
+          257.3950456974076
+        ],
+        [
+          111.3391786666601,
+          257.3950456974076
+        ],
+        [
+          111.3391786666601,
+          271.99188232421875
+        ],
+        [
+          38.47943163278421,
+          271.99188232421875
+        ]
+      ]
+    },
+    {
+      "title": "Nearables and smartphone applications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.81678893043652,
+          413.42094662011624
+        ],
+        [
+          185.0900608322182,
+          413.42094662011624
+        ],
+        [
+          185.0900608322182,
+          428.7319030761719
+        ],
+        [
+          38.81678893043652,
+          428.7319030761719
+        ]
+      ]
+    },
+    {
+      "title": "Sleep diaries and questionnaires",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.84895092173848,
+          526.8539504212405
+        ],
+        [
+          158.84014907952218,
+          526.8539504212405
+        ],
+        [
+          158.84014907952218,
+          541.4719085693359
+        ],
+        [
+          38.84895092173848,
+          541.4719085693359
+        ]
+      ]
+    },
+    {
+      "title": "SLEEP AND THE ATHLETE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.4546874692518,
+          133.85783577865874
+        ],
+        [
+          408.2940055789515,
+          133.85783577865874
+        ],
+        [
+          408.2940055789515,
+          148.66851806640625
+        ],
+        [
+          303.4546874692518,
+          148.66851806640625
+        ]
+      ]
+    },
+    {
+      "title": "Sleep and athletic performance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.47576227836703,
+          145.11838938539267
+        ],
+        [
+          432.23347684538334,
+          145.11838938539267
+        ],
+        [
+          432.23347684538334,
+          160.173095703125
+        ],
+        [
+          303.47576227836703,
+          160.173095703125
+        ]
+      ]
+    },
+    {
+      "title": "The effect of sleep restriction and acute sleep improvement on \nathletic performance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.5687205124862,
+          291.48319723473276
+        ],
+        [
+          532.9783935546875,
+          291.48319723473276
+        ],
+        [
+          532.9783935546875,
+          317.82977294921875
+        ],
+        [
+          303.5687205124862,
+          317.82977294921875
+        ]
+      ]
+    },
+    {
+      "title": "Sleep deprivation, chronic sleep improvement and athletic \nperformance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.0830836067872,
+          614.5548219041401
+        ],
+        [
+          517.1598510742188,
+          614.5548219041401
+        ],
+        [
+          517.1598510742188,
+          640.4864044189453
+        ],
+        [
+          303.0830836067872,
+          640.4864044189453
+        ]
+      ]
+    },
+    {
+      "title": "Sleep inadequacy and the athlete",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.7760783082592,
+          158.27901383094678
+        ],
+        [
+          440.68612463348154,
+          158.27901383094678
+        ],
+        [
+          440.68612463348154,
+          173.0020751953125
+        ],
+        [
+          303.7760783082592,
+          173.0020751953125
+        ]
+      ]
+    },
+    {
+      "title": "Does participation in elite sport degrade sleep?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.78370678034474,
+          625.5836827149359
+        ],
+        [
+          477.02853339745354,
+          625.5836827149359
+        ],
+        [
+          477.02853339745354,
+          640.4920806884766
+        ],
+        [
+          302.78370678034474,
+          640.4920806884766
+        ]
+      ]
+    },
+    {
+      "title": "Box 1 Sleep and athletic performance: five key \nrecommendations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.70463562011719,
+          47.998391184748286
+        ],
+        [
+          242.5885009765625,
+          47.998391184748286
+        ],
+        [
+          242.5885009765625,
+          75.3035888671875
+        ],
+        [
+          43.70463562011719,
+          75.3035888671875
+        ]
+      ]
+    },
+    {
+      "title": "Sport-specific risk factors for sleep inadequacy in athletes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.98525854922662,
+          636.7168807911355
+        ],
+        [
+          249.0923318934981,
+          636.7168807911355
+        ],
+        [
+          249.0923318934981,
+          651.4971160888672
+        ],
+        [
+          38.98525854922662,
+          651.4971160888672
+        ]
+      ]
+    },
+    {
+      "title": "General risk factors for sleep inadequacy in athletes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.621159724084194,
+          493.94478710199775
+        ],
+        [
+          229.1814020190491,
+          493.94478710199775
+        ],
+        [
+          229.1814020190491,
+          508.50396728515625
+        ],
+        [
+          38.621159724084194,
+          508.50396728515625
+        ]
+      ]
+    },
+    {
+      "title": "Intensified training, over-reaching and overtraining",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.2288663081018,
+          190.0291182650385
+        ],
+        [
+          511.5670759455683,
+          190.0291182650385
+        ],
+        [
+          511.5670759455683,
+          204.0020751953125
+        ],
+        [
+          303.2288663081018,
+          204.0020751953125
+        ]
+      ]
+    },
+    {
+      "title": "Over-reaching, overtraining and sleep disturbances",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.1836012833064,
+          357.23750289326233
+        ],
+        [
+          490.2682324464735,
+          357.23750289326233
+        ],
+        [
+          490.2682324464735,
+          372.4920959472656
+        ],
+        [
+          303.1836012833064,
+          372.4920959472656
+        ]
+      ]
+    },
+    {
+      "title": "Is sleep disturbance a symptom of over-reaching/overtraining or an \naetiological mechanism?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.02109617910696,
+          603.5450895920015
+        ],
+        [
+          549.641357421875,
+          603.5450895920015
+        ],
+        [
+          549.641357421875,
+          629.4866027832031
+        ],
+        [
+          303.02109617910696,
+          629.4866027832031
+        ]
+      ]
+    },
+    {
+      "title": "STRATEGIES TO IMPROVE SLEEP\nCircadian rhythms, jet lag and sleep",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.76735189519541,
+          158.41413745393834
+        ],
+        [
+          183.97750854492188,
+          158.41413745393834
+        ],
+        [
+          183.97750854492188,
+          184.256591796875
+        ],
+        [
+          38.76735189519541,
+          184.256591796875
+        ]
+      ]
+    },
+    {
+      "title": "Daily variations in components of sports performance before travel",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.47515653903298,
+          625.3539576832138
+        ],
+        [
+          282.26676160682655,
+          625.3539576832138
+        ],
+        [
+          282.26676160682655,
+          640.4920806884766
+        ],
+        [
+          38.47515653903298,
+          640.4920806884766
+        ]
+      ]
+    },
+    {
+      "title": "Jet lag after time zone transition",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.32656637427186,
+          302.0631789945002
+        ],
+        [
+          424.0880173075409,
+          302.0631789945002
+        ],
+        [
+          424.0880173075409,
+          316.0021057128906
+        ],
+        [
+          303.32656637427186,
+          316.0021057128906
+        ]
+      ]
+    },
+    {
+      "title": "Jet lag and sporting performance",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.2210777916896,
+          494.01681642469305
+        ],
+        [
+          426.208143104534,
+          494.01681642469305
+        ],
+        [
+          426.208143104534,
+          508.49212646484375
+        ],
+        [
+          303.2210777916896,
+          508.49212646484375
+        ]
+      ]
+    },
+    {
+      "title": "Nutritional strategies to enhance sleep",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          38.456985243021386,
+          459.49701521371867
+        ],
+        [
+          197.74278063257634,
+          459.49701521371867
+        ],
+        [
+          197.74278063257634,
+          474.0111083984375
+        ],
+        [
+          38.456985243021386,
+          474.0111083984375
+        ]
+      ]
+    },
+    {
+      "title": "Caffeine and sleep",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          38.689251974187506,
+          713.3644088154361
+        ],
+        [
+          109.36128492379368,
+          713.3644088154361
+        ],
+        [
+          109.36128492379368,
+          728.5110931396484
+        ],
+        [
+          38.689251974187506,
+          728.5110931396484
+        ]
+      ]
+    },
+    {
+      "title": "A 'sleep toolbox' for practitioners: evidence-based practice",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.92403752017077,
+          569.23625100976
+        ],
+        [
+          541.7538536705958,
+          569.23625100976
+        ],
+        [
+          541.7538536705958,
+          584.0110931396484
+        ],
+        [
+          302.92403752017077,
+          584.0110931396484
+        ]
+      ]
+    },
+    {
+      "title": "Tool #1: provide sleep education for athletes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.7094409856148,
+          712.7558205292064
+        ],
+        [
+          466.7884669075685,
+          712.7558205292064
+        ],
+        [
+          466.7884669075685,
+          728.5110931396484
+        ],
+        [
+          302.7094409856148,
+          728.5110931396484
+        ]
+      ]
+    },
+    {
+      "title": "Tool #2: sleep screen athletes and refer for help when needed",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          38.94426289133221,
+          219.68488090594383
+        ],
+        [
+          264.1820097570155,
+          219.68488090594383
+        ],
+        [
+          264.1820097570155,
+          235.01214599609375
+        ],
+        [
+          38.94426289133221,
+          235.01214599609375
+        ]
+      ]
+    },
+    {
+      "title": "Tool #3: encourage nap opportunities",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          38.678940780216855,
+          309.1491665790619
+        ],
+        [
+          177.0635021603678,
+          309.1491665790619
+        ],
+        [
+          177.0635021603678,
+          324.5120849609375
+        ],
+        [
+          38.678940780216855,
+          324.5120849609375
+        ]
+      ]
+    },
+    {
+      "title": "Box 3 Athlete sleep education\u2014five tips to educate \nathletes on the importance of sleep",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          309.287759391727,
+          267.27498389686247
+        ],
+        [
+          527.6065063476562,
+          267.27498389686247
+        ],
+        [
+          527.6065063476562,
+          293.65533447265625
+        ],
+        [
+          309.287759391727,
+          293.65533447265625
+        ]
+      ]
+    },
+    {
+      "title": "Box 2 Summary of the sleep toolbox for practitioners",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.66790615821665,
+          400.53501977101035
+        ],
+        [
+          267.27867806768535,
+          400.53501977101035
+        ],
+        [
+          267.27867806768535,
+          414.6829699119157
+        ],
+        [
+          44.66790615821665,
+          414.6829699119157
+        ]
+      ]
+    },
+    {
+      "title": "Tool #4: banking sleep and sleep extension",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.42140115118146,
+          43.78066019521106
+        ],
+        [
+          196.41032582626534,
+          43.78066019521106
+        ],
+        [
+          196.41032582626534,
+          57.7991943359375
+        ],
+        [
+          39.42140115118146,
+          57.7991943359375
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          38.848836384732415,
+          205.59644419208126
+        ],
+        [
+          97.02475598236775,
+          205.59644419208126
+        ],
+        [
+          97.02475598236775,
+          220.33917236328125
+        ],
+        [
+          38.848836384732415,
+          220.33917236328125
+        ]
+      ]
+    },
+    {
+      "title": "What is already known?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          41.67119715616144,
+          413.4886285567531
+        ],
+        [
+          143.13308715820312,
+          413.4886285567531
+        ],
+        [
+          143.13308715820312,
+          430.0640869140625
+        ],
+        [
+          41.67119715616144,
+          430.0640869140625
+        ]
+      ]
+    },
+    {
+      "title": "What are the new findings?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.309838321407135,
+          587.3788540329541
+        ],
+        [
+          157.3927001953125,
+          587.3788540329541
+        ],
+        [
+          157.3927001953125,
+          601.6423950195312
+        ],
+        [
+          42.309838321407135,
+          601.6423950195312
+        ]
+      ]
+    },
+    {
+      "title": "Author affiliations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.0852824098217,
+          43.3053421726533
+        ],
+        [
+          368.27951749325996,
+          43.3053421726533
+        ],
+        [
+          368.27951749325996,
+          56.2991943359375
+        ],
+        [
+          304.0852824098217,
+          56.2991943359375
+        ]
+      ]
+    },
+    {
+      "title": "ORCID iDs",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          303.83992123543766,
+          505.2029610868891
+        ],
+        [
+          341.6722273742522,
+          505.2029610868891
+        ],
+        [
+          341.6722273742522,
+          518.7051696777344
+        ],
+        [
+          303.83992123543766,
+          518.7051696777344
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          303.3991370213122,
+          546.7192166105996
+        ],
+        [
+          357.00392193157666,
+          546.7192166105996
+        ],
+        [
+          357.00392193157666,
+          560.6642150878906
+        ],
+        [
+          303.3991370213122,
+          560.6642150878906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          316
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          316
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          316
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "Text",
+          27
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          660
+        ],
+        [
+          "Line",
+          163
+        ],
+        [
+          "Reference",
+          54
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          644
+        ],
+        [
+          "Line",
+          163
+        ],
+        [
+          "Reference",
+          37
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Reference",
+          23
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/walsh2021sleep"
+}

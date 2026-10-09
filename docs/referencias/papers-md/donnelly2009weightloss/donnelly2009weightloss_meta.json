@@ -1,0 +1,724 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Appropriate Physical\nActivity Intervention\nStrategies for Weight Loss\nand Prevention of Weight\nRegain for Adults",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          286.3395767211914,
+          105.2695198059082
+        ],
+        [
+          553.6985778808594,
+          105.2695198059082
+        ],
+        [
+          553.6985778808594,
+          223.52264404296875
+        ],
+        [
+          286.3395767211914,
+          223.52264404296875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.48524188995361,
+          287.0706481933594
+        ],
+        [
+          93.02781677246094,
+          287.0706481933594
+        ],
+        [
+          93.02781677246094,
+          299.8015441894531
+        ],
+        [
+          47.48524188995361,
+          299.8015441894531
+        ]
+      ]
+    },
+    {
+      "title": "0195-9131/09/4102-0459/0",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.14423370361328,
+          668.1666412353516
+        ],
+        [
+          138.2988624572754,
+          668.1666412353516
+        ],
+        [
+          138.2988624572754,
+          680.4845962524414
+        ],
+        [
+          47.14423370361328,
+          680.4845962524414
+        ]
+      ]
+    },
+    {
+      "title": "RATIONALE FOR WEIGHT MANAGEMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.97774791717529,
+          244.37791442871094
+        ],
+        [
+          270.3794631958008,
+          244.37791442871094
+        ],
+        [
+          270.3794631958008,
+          261.09625244140625
+        ],
+        [
+          46.97774791717529,
+          261.09625244140625
+        ]
+      ]
+    },
+    {
+      "title": "POTENTIAL NEED FOR GREATER\nAMOUNTS OF PA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.3472366333008,
+          208.90704345703125
+        ],
+        [
+          490.78326416015625,
+          208.90704345703125
+        ],
+        [
+          490.78326416015625,
+          236.490966796875
+        ],
+        [
+          309.3472366333008,
+          236.490966796875
+        ]
+      ]
+    },
+    {
+      "title": "WEIGHT MAINTENANCE AND CLINICALLY\nSIGNIFICANT WEIGHT LOSS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.00821781158447,
+          119.36505889892578
+        ],
+        [
+          273.9592590332031,
+          119.36505889892578
+        ],
+        [
+          273.9592590332031,
+          147.029541015625
+        ],
+        [
+          47.00821781158447,
+          147.029541015625
+        ]
+      ]
+    },
+    {
+      "title": "OVERVIEW OF LIFESTYLE PA",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.037726402282715,
+          119.42015075683594
+        ],
+        [
+          205.99258422851562,
+          119.42015075683594
+        ],
+        [
+          205.99258422851562,
+          134.95452880859375
+        ],
+        [
+          47.037726402282715,
+          134.95452880859375
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          309.89041900634766,
+          634.9542388916016
+        ],
+        [
+          387.5185089111328,
+          634.9542388916016
+        ],
+        [
+          387.5185089111328,
+          648.9053649902344
+        ],
+        [
+          309.89041900634766,
+          648.9053649902344
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          133.38420867919922,
+          378.49971771240234
+        ],
+        [
+          203.89755249023438,
+          378.49971771240234
+        ],
+        [
+          203.89755249023438,
+          392.00506591796875
+        ],
+        [
+          133.38420867919922,
+          392.00506591796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          313
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          369
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          380
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          376
+        ],
+        [
+          "Line",
+          139
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/donnelly2009weightloss"
+}
