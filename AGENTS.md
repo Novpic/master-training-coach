@@ -1,26 +1,26 @@
-# Instrucciones del repositorio
+# Repository instructions
 
-## Alcance y estructura
+## Scope and structure
 
-- Es un repositorio documental, no una aplicación: no hay manifiesto, build, tests, lint, CI ni comando de desarrollo configurados.
-- `docs/` contiene la documentación educativa; `docs/metodologia/README.md` es la fuente de verdad para investigar y publicar temas nuevos.
-- `docs/bibliografia.md` es el índice temático y `docs/referencia.bib` la bibliografía normalizada; deben mantenerse sincronizados con las citas de los documentos.
-- `.agent/verificador-verdad-deportiva.md` define la auditoría independiente y `.agent/investigador-ejecutor-evidencia.md` define la investigación y las ediciones posteriores.
+- This is a documentation repository, not an application: it has no manifest, build, tests, lint, CI, or configured development command.
+- `docs/` contains the educational documentation; `docs/metodologia/README.md` is the source of truth for researching and publishing new topics.
+- `docs/bibliografia.md` is the subject index and `docs/referencia.bib` is the normalized bibliography; keep them synchronized with citations in the documents.
+- `.agent/verificador-verdad-deportiva.md` defines the independent audit, and `.agent/investigador-ejecutor-evidencia.md` defines the research and subsequent editing process.
 
-## Flujo obligatorio
+## Required workflow
 
-- Delimitar pregunta, población, intervención, comparador, resultados y exclusiones antes de buscar evidencia.
-- Priorizar fuentes primarias, revisiones sistemáticas, metaanálisis, consensos y organismos oficiales; confirmar DOI, PMID u otro identificador en una fuente independiente.
-- Separar siempre resultado de la fuente, interpretación y aplicación práctica; tratar rangos, ejemplos y heurísticas como orientativos, no como protocolos universales.
-- No usar blogs, redes, Wikipedia, snippets de buscador ni contenido generado por IA como evidencia final.
-- Distinguir registro bibliográfico, texto completo legalmente accesible y descarga comprobada; nunca añadir copias no autorizadas.
-- Si un dato no puede confirmarse, escribir `No verificado` o dejarlo pendiente en vez de inferirlo.
-- Toda afirmación material debe tener cita inline trazable y contexto de población, unidad, duración y limitaciones.
-- No hacer recomendaciones clínicas individualizadas; mantener el alcance en adultos sanos y poblaciones recreativas salvo delimitación explícita.
-- Tras editar, revisar enlaces e identificadores, sincronizar `docs/bibliografia.md` y `docs/referencia.bib`, comprobar contradicciones entre documentos y solicitar reauditoría.
+- Define the question, population, intervention, comparator, outcomes, and exclusions before searching for evidence.
+- Prioritize primary sources, systematic reviews, meta-analyses, consensus statements, and official organizations; confirm DOI, PMID, or another identifier using an independent source.
+- Always separate a source's findings, their interpretation, and their practical application; treat ranges, examples, and heuristics as guidance, not universal protocols.
+- Do not use blogs, social media, Wikipedia, search snippets, or AI-generated content as final evidence.
+- Distinguish a bibliographic record, legally accessible full text, and a verified download; never add unauthorized copies.
+- If a fact cannot be confirmed, write `Not verified` or leave it pending instead of inferring it.
+- Every material claim must have a traceable inline citation and context for population, units, duration, and limitations.
+- Do not make individualized clinical recommendations; keep the scope to healthy adults and recreational populations unless explicitly delimited otherwise.
+- After editing, review links and identifiers, synchronize `docs/bibliografia.md` and `docs/referencia.bib`, check for contradictions between documents, and request a re-audit.
 
-## Verificación
+## Verification
 
-- No hay comandos automatizados de validación configurados; la verificación consiste en releer los cambios contra las fuentes, comprobar metadatos y enlaces, y revisar la consistencia documental.
-- La auditoría actual marca como pendientes de especial cuidado las recomendaciones concretas sin citas locales, las extrapolaciones entre principiantes y atletas entrenados, el estado de acceso de las fuentes y la trazabilidad BibTeX.
-- Para afirmaciones sobre dolor, lesiones, embarazo, enfermedad, medicación, suplementos, seguridad o baja disponibilidad energética, conservar advertencias y requerir revisión humana cuando corresponda.
+- No automated validation commands are configured; verification consists of rereading changes against their sources, checking metadata and links, and reviewing documentary consistency.
+- The current audit flags concrete recommendations without local citations, extrapolations between beginners and trained athletes, source access status, and BibTeX traceability as areas requiring special care.
+- For claims about pain, injuries, pregnancy, illness, medication, supplements, safety, or low energy availability, retain warnings and require human review when appropriate.
