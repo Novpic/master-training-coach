@@ -1,0 +1,22 @@
+# Summary — donnelly2009weightloss
+
+## Central idea
+
+This ACSM Position Stand update evaluates physical activity (PA) for preventing weight gain, supporting weight loss, and maintaining weight loss in adults. It concludes that the effective PA dose differs by goal and that evidence for preventing post-loss regain is notably weaker than evidence for preventing initial weight gain or supporting modest loss. Its evidence-category labels are the authors’ use of NHLBI grading, not a new independent appraisal.
+
+## Context and scope
+
+This is a position stand and evidence review, not a single intervention trial. It updates the evidence published from 1999 onward for adults older than 18 years. The reviewed literature included diverse PA trials and populations, including people with hypertension, cardiovascular disease, and type 2 diabetes; some acute weight-affecting comorbidities and pharmacotherapy trials were excluded. The authors note limited evidence in adults older than 65 years and individual variation in response, including the role of energy intake. PA intensity is defined in the paper as moderate at 3.0–5.9 METs. Recommendations and evidence statements retain the NHLBI evidence categories assigned by the authors.
+
+## Relevant findings
+
+- **Author evidence statement—preventing weight gain (Category A):** Moderate-intensity PA of 150–250 min/week, with an estimated energy equivalent of about 1,200–2,000 kcal/week, was judged sufficient to prevent weight gain greater than 3% in most adults. This is a population-level evidence statement, not a guaranteed individual outcome.
+- **Author evidence statement—weight loss (Category B):** The review summarizes PA below 150 min/week as producing minimal weight loss, more than 150 min/week as associated with modest loss of about 2–3 kg, and 225–420 min/week as associated with about 5–7.5 kg loss. These ranges summarize heterogeneous studies with differing interventions and durations; they should not be read as a fixed dose-response promise for an individual. In the Position Stand’s concluding recommendation, at least 150 min/week of moderate-intensity PA is proposed for health and modest weight reduction, while approximately 250–300 min/week (about 2,000 kcal/week) is associated with greater weight loss and better maintenance.
+- **PA combined with dietary restriction (Category A):** The reviewed evidence supports an added weight-loss effect when PA accompanies moderate dietary restriction (approximately 500–700 kcal/day in the cited studies). With severe restriction, cited studies using deficits of about 600–1,000 kcal/day for 12–16 weeks reported broadly similar weight loss with diet alone or diet plus exercise. The paper does not establish that exercise has no health value in severe restriction; the point is that its additional weight-loss effect was not consistently observed.
+- **Maintaining loss:** Cross-sectional and prospective evidence associates higher PA with less regain, and the authors describe approximately 200–300 min/week as a potentially useful range. However, the stand explicitly finds no adequately powered, sufficiently long randomized trials assigning different PA doses after weight loss; the amount needed and a dose effect therefore remain uncertain. The recommendation is not a proven universal requirement.
+- **Resistance training and health:** Resistance training alone was not supported as a way to produce clinically significant weight reduction of roughly 3% of initial weight, nor did it consistently add weight loss to dietary restriction. It may help preserve or increase fat-free mass, sometimes reduce fat mass, and improve chronic-disease risk factors even without substantial weight loss. Evidence for preventing weight gain or post-loss regain through resistance training was inadequate. The paper also reports that small weight losses (about 2–3%) can accompany favorable changes in some risk factors. Its conceptual figure proposes possible pathways from resistance training through muscle mass, resting metabolic rate, free-living activity, and energy expenditure; this is a model, not a tested effect estimate.
+- **Scope and caution:** Lifestyle PA measures and definitions varied, limiting precise dose recommendations. The stand cautions exercise professionals against providing individualized dietary treatment outside their scope, particularly when chronic disease is present; appropriate referral may be needed.
+
+## Key formulas
+
+No key formulas were identified in the analyzed material.

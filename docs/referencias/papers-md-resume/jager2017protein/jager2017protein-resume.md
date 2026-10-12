@@ -1,0 +1,23 @@
+# Summary — jager2017protein
+
+## Central idea
+
+This International Society of Sports Nutrition position stand reviews protein intake and exercise in healthy, exercising people. It emphasizes adequate total daily protein, protein quality, and opportunities to distribute protein across the day; resistance exercise and protein intake both stimulate muscle protein synthesis (MPS). Many timing and per-meal recommendations are based on acute responses and limited longitudinal studies, so they should not be interpreted as a rigid nutrient-timing rule.
+
+## Context and scope
+
+This is a society position stand and narrative evidence review, not a single trial. It summarizes research on endurance and resistance performance, body composition, protein timing, sources, and safety. The authors note that many strength-training supplementation studies involved young, healthy, untrained men, and some results depend on energy balance, training status, dose, protein type, or carbohydrate intake. Numerous authors disclose commercial, research, or advisory relationships with supplement and sports-nutrition companies; these should be considered when interpreting the Society’s recommendations.
+
+## Relevant findings
+
+- **Daily intake—ISSN position:** For most exercising individuals, 1.4–2.0 g protein/kg body mass/day is considered sufficient to build or maintain muscle mass. For resistance-trained people during energy restriction, the stand gives 2.3–3.1 g/kg/day as a possible range to maximize lean-mass retention. It also notes preliminary evidence that intakes above 3.0 g/kg/day may favor fat-mass loss in resistance-trained individuals; this is not presented as a universal need.
+- **Per-meal amount and distribution—ISSN position:** General guidance is about 0.25 g/kg per serving or 20–40 g of high-quality protein, with a balanced essential amino acid (EAA) profile and approximately 700–3000 mg leucine. The stand suggests distributing servings about every 3–4 hours. These recommendations vary with age, body size, recent resistance exercise, and the amount and quality of protein already consumed. The paper describes higher acute doses (around 40 g) as potentially relevant to older adults, based on studies of older men, not as a fixed dose for every older person.
+- **Exercise timing and resistance adaptation:** Resistance exercise sensitizes muscle to protein feeding for at least 24 hours, although the response likely diminishes as time passes. Protein before or after training can support MPS; the review finds limited and mixed evidence that an immediate post-workout window has unique long-term advantages when total daily protein is already adequate. Overall energy and daily protein intake are emphasized more strongly than exact peri-workout timing.
+- **Endurance exercise:** When carbohydrate intake is adequate, adding protein has generally not improved endurance performance in the few studies lasting days to weeks or in most acute pre/during-exercise comparisons. Protein with carbohydrate during or after strenuous endurance exercise may reduce some muscle-damage markers and soreness. The authors suggest approximately 0.25 g/kg per hour of endurance exercise for those aims, while acknowledging limited evidence; this is not a demonstrated performance-enhancing requirement.
+- **Body composition and energy restriction:** Protein combined with resistance training and adequate energy may support lean-mass gains. In a calorie deficit, higher protein intakes have supported fat loss and lean-mass retention in studies, many of which involved overweight/obese participants or resistance-trained people; the result should not be generalized without regard to population and energy context.
+- **Pre-sleep protein:** The stand summarizes acute studies in which 30–40 g casein before sleep increased overnight MPS. Longer-term training evidence is limited and partly confounded by higher total protein intake in the pre-sleep group. The apparent acute effect does not establish that this timing is necessary when daily intake is already met.
+- **Safety and limits:** The authors report no evidence of harm from higher protein intakes in healthy exercising participants in the reviewed studies, including controlled resistance-training studies lasting up to one year at approximately 3.3 g/kg/day. This does not establish safety for people with kidney or other disease, nor for all doses, durations, or populations; clinical concerns require qualified review.
+
+## Key formulas
+
+No key formulas were identified in the analyzed material.

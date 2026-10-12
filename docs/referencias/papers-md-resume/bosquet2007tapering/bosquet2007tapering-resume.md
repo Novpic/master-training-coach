@@ -1,0 +1,20 @@
+# Summary — bosquet2007tapering
+
+## Central idea
+
+This systematic review and meta-analysis examined whether pre-competition tapering improves endurance performance and which taper characteristics are associated with better time-trial outcomes. The paper reports improved time-trial and time-to-exhaustion performance after tapering, but no clear pooled improvement in maximal oxygen uptake or economy of movement. Its proposed taper ranges are subgroup findings from a small, heterogeneous evidence base, not a universal prescription.
+
+## Context and scope
+
+The analyzed paper is Wang and colleagues’ 2023 systematic review and meta-analysis, titled “Effects of tapering on performance in endurance athletes.” It synthesized 14 controlled or randomized studies including 174 endurance athletes aged 17–32 years, mostly runners and cyclists; time trials ranged from 800 m to 40 km. Participants were required to be well-trained or to meet the paper’s aerobic-capacity criterion. Study quality was moderate to slightly high under the authors’ PEDro assessment. The authors pooled pre-/post-taper results and, where available, comparisons with non-tapering controls. Outcomes included distance-based time trials (primary), time to exhaustion, maximal oxygen uptake, and economy of movement. Results have limited transfer to other endurance sports, women, and distinct training levels because those groups were underrepresented and the review could not compare athlete subgroups in depth.
+
+## Relevant findings
+
+- **Review findings:** Time-trial performance improved after tapering (SMD −0.45, 95% CI −0.68 to −0.23). In studies with a non-tapering control, the taper groups also improved relative to controls (SMD −0.73, 95% CI −1.25 to −0.21). A negative time-trial SMD indicates faster completion. Time to exhaustion improved (SMD 1.28, 95% CI 0.43 to 2.12), although heterogeneity was moderate (I² = 64%). No significant pooled pre-/post-taper change was found for maximal oxygen uptake (SMD 0.20, 95% CI −0.93 to 1.33; high heterogeneity, I² = 87%) or movement economy (SMD −0.47, 95% CI −1.06 to 0.12; I² = 57%). The control-group comparison for maximal oxygen uptake favored tapering in the smaller set of studies reporting both groups; this does not alter the null pooled pre-/post-taper result.
+- **Authors’ subgroup interpretation for time trials:** A 41–60% reduction in training volume had the largest significant subgroup effect (SMD −0.77, 95% CI −1.23 to −0.30). Maintaining intensity and frequency was associated with significant improvement; reducing intensity was not. Tapers lasting ≤7 days, 8–14 days, and 15–21 days each showed improvement; the ≥22-day subgroup did not. Both step and progressive taper subgroups improved time trials. The authors’ broader conclusion describes a taper of ≤21 days, progressively reducing volume by 41–60% while maintaining intensity and frequency. These are subgroup patterns, not head-to-head proof that every athlete should use the same scheme; 8–14 days had the largest estimated effect, but duration and other taper variables varied across the included studies.
+- **Pre-taper overload:** Tapering paired with pre-taper overload training produced a larger time-trial effect than conventional tapering in the subgroup comparison. The authors discuss this as a potential way to maximize gains, but the evidence is based on few studies and does not establish a generally appropriate overload for all athletes.
+- **Limitations:** The study base was small, predominantly male, and concentrated in running and cycling; methods and taper protocols differed, and several pooled outcomes had substantial heterogeneity. The findings support tailoring to event, athlete, and response rather than treating the subgroup ranges as universal guidance.
+
+## Key formulas
+
+No key formulas were identified in the analyzed material.

@@ -1,0 +1,21 @@
+# Summary — hewbutler2015hyponatremia
+
+## Central idea
+
+This consensus statement synthesizes evidence and expert deliberation on exercise-associated hyponatremia (EAH), including its mechanisms, recognition, treatment, and prevention. Its central prevention message is to avoid drinking hypotonic fluids in excess of losses; thirst-guided intake is presented as a way to reduce overdrinking while generally limiting excessive dehydration. Symptomatic EAH is an urgent medical problem, and the panel prioritizes clinical severity over a sodium value alone when guiding care.
+
+## Context and scope
+
+The statement records the Third International EAH Consensus Development Conference held in 2015, with 17 experts from four countries and nine medical/scientific specialties. Workgroups reviewed the literature and presented it for open discussion followed by a closed consensus session. Recommendations were graded using the American College of Chest Physicians scheme; the grades below are the panel’s, not a new evidence appraisal. The conference was funded by CrossFit, Inc., which the authors state did not participate in closed discussions or guideline development. The document addresses athletes, event clinicians, and the public; its clinical treatment guidance is not individualized medical advice.
+
+## Relevant findings
+
+- **Definition and mechanism:** EAH is hyponatremia occurring during exercise or within 24 hours afterward, usually defined as blood, plasma, or serum sodium below 135 mmol/L. The panel identifies dilution from sustained intake of hypotonic fluids beyond fluid losses, commonly combined with non-osmotic arginine vasopressin (AVP) secretion that limits water excretion, as the main mechanism underlying symptomatic and fatal cases (Grade 1A). Sodium loss can contribute, particularly in prolonged or hot events, but the panel finds sparse evidence that it is the primary cause of symptomatic EAH in those settings (Grade 2C).
+- **Recognition and risk context:** EAH ranges from an incidental low sodium result to headache, vomiting, confusion, seizure, cerebral edema, and potentially fatal encephalopathy. The statement emphasizes symptom severity and the rate of sodium decline, not just the absolute concentration. Excessive fluid intake and weight maintenance or gain during activity are important warning context, although weight loss does not exclude EAH. Reported cases span endurance events and other activities; the risk cannot be reduced to one race distance or athlete profile.
+- **Prevention—panel recommendation:** The panel recommends drinking palatable fluids in response to physiological thirst to limit overdrinking while providing fluid to avoid excessive dehydration (Grade 1C). Hypotonic sports drinks do not neutralize the risk from excessive fluid volume, and sodium supplementation cannot prevent dilutional EAH when overdrinking persists (Grade 1C). Event education and management should discourage forced or excessive fluid intake and train support staff to recognize symptoms (Grade 1C). The panel notes that fluid-station management may help but requires further study.
+- **Clinical response—panel recommendation:** Suspected symptomatic EAH warrants prompt sodium assessment where available and urgent professional evaluation. Severe neurological symptoms consistent with exercise-associated hyponatremic encephalopathy call for emergent hypertonic saline treatment; the panel says not to delay this for laboratory testing when the presentation is life-threatening (Grade 1B). Treatment and fluid decisions depend on clinical presentation and suspected mechanism, so the paper’s protocols should be applied by qualified medical personnel, not used as self-treatment instructions.
+- **Uncertainty:** The panel identifies unresolved issues in the relative contribution of sodium loss, the role of NSAIDs and other secondary risk factors, optimal event-management strategies, and the effectiveness of current prevention recommendations. It calls for prospective controlled research and evaluation of prevention programs. It also distinguishes dilutional EAH from a less common, disputed hypovolemic presentation.
+
+## Key formulas
+
+No key formulas were identified in the analyzed material.
