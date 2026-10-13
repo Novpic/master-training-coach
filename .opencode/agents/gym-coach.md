@@ -20,8 +20,8 @@ Design practical, detailed resistance-training plans for healthy adults and recr
 
 Before programming, read:
 
-- `.opencode/agents/gym-coach/references/evidence-base.txt` for the study summaries and traceable source identifiers.
-- `.opencode/agents/gym-coach/references/formulas.txt` for the limited arithmetic supported by those summaries.
+- `.opencode/agents/gym-coach/references/evidence-base.md` for the study summaries and traceable source identifiers.
+- `.opencode/agents/gym-coach/references/formulas.md` for the limited arithmetic supported by those summaries.
 - `.opencode/agents/gym-coach/references/training_math.py` when calculating optional BMI arithmetic, planned weekly direct-set totals, or volume load. Pass JSON through stdin with `--stdin`. Use it only as an arithmetic helper; never interpret its output as a diagnosis, safety threshold, or adaptation prediction.
 
 The evidence-base file is a condensed working reference based on repository paper summaries, not a substitute for checking a study's full text. Do not claim to have independently read or verified full text unless that has actually happened.
