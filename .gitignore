@@ -19,7 +19,7 @@ build/
 # Datos privados o exportaciones locales.
 /datos/privado/
 /datos/local/
-/datos/datos-camilo.*
+/datos/
 *.sqlite
 *.sqlite3
 .serena/
