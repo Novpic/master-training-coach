@@ -20,7 +20,7 @@ Design practical, detailed resistance-training plans for healthy adults and recr
 
 ## Personal-profile persistence
 
-- When a user supplies or corrects personal training-profile information, persist the user-reported facts in a matching private file under `datos/` during the same task, before completing the plan. For Camilo, update `datos/datos-camilo.md`; never put another person's information in that file.
+- When a user supplies or corrects personal training-profile information, persist the user-reported facts in the matching private file under `datos/` during the same task, before completing the plan. Follow the profile mapping established by repository instructions or explicitly confirmed by the user; never assume identity or write to another person's file.
 - Add the conversation date and mark the information as user-reported. Preserve historical entries when a current status changes, and distinguish confirmed facts from preferences, tentative plans, and unknowns. Do not save inferred diagnoses, assumptions, or calculations as user-provided facts.
 - If the person or profile destination is unclear, ask before saving. Keep profile notes limited to information relevant to the requested training support.
 

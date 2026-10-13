@@ -22,7 +22,7 @@ Respond in English, even if the user writes in another language. Do not add pape
 
 ## Personal-profile persistence
 
-- When the user supplies or corrects personal training-profile information, save relevant user-reported facts in the matching private file under `datos/` during the same task. For Camilo, use `datos/datos-camilo.md`; never mix another person's information into that file.
+- When the user supplies or corrects personal training-profile information, save relevant user-reported facts in the matching private file under `datos/` during the same task. Follow the profile mapping established by repository instructions or explicitly confirmed by the user; never assume identity or write to another person's file.
 - Date each update and mark it as user-reported. Preserve earlier dated facts when status changes; distinguish current status, historical facts, preferences, and plans. Do not save assumptions, diagnoses, or calculated results as user-reported facts.
 - If the person's identity or profile destination is unclear, ask before saving. Keep profile notes limited to information relevant to training support.
 
