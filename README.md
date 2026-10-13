@@ -24,6 +24,7 @@ fotografias, mediciones y datos personales permanecen fuera de Git.
 │   └── *.md                  # Temas educativos publicados
 ├── .agent/                   # Roles y criterios de investigacion
 ├── .opencode/                # Agentes y skills locales
+│   └── agents/               # Orquestador de planes, gym-coach e hypertrophy-coach
 ├── datos/                    # Datos anonimizados o plantillas no sensibles
 ├── planes/                   # Privado, ignorado por Git
 └── docs/fotos/               # Privado, ignorado por Git
@@ -47,6 +48,26 @@ variante del nombre; la carpeta existente actualmente es `docs/fotos/`.
    antes de publicar cambios.
 8. Solicita reauditoria cuando una modificacion cambie recomendaciones, cifras,
    seguridad o el alcance de una conclusion.
+
+## Agentes para planes de entrenamiento
+
+- `@gym-coach` crea planes generales de entrenamiento de resistencia para distintos
+  objetivos. Organiza la rutina en una tabla por dia e incluye trabajo de core salvo
+  que la persona lo descarte, falte tiempo/equipo o exista una restriccion.
+- `@hypertrophy-coach` se especializa en crecimiento muscular, prioridades por
+  grupo muscular, volumen directo semanal y progresion. Devuelve una tabla separada
+  por cada dia de entrenamiento y no incluye citas ni referencias en su respuesta.
+- `@training-plan-orchestrator` enruta la solicitud y delega en los agentes
+  especializados. Para una solicitud general usa primero `gym-coach`. Para una
+  solicitud exclusivamente de hipertrofia puede llamar directamente a
+  `hypertrophy-coach`. Si se pide un plan general refinado para hipertrofia, ejecuta
+  en secuencia `gym-coach` y luego `hypertrophy-coach`; el segundo recibe el plan
+  completo y lo refina sin repetir la entrevista ni alterar dias, duracion, equipo,
+  restricciones, ejercicios principales o core solicitado sin una razon explicita.
+
+Los agentes se invocan en OpenCode con `@nombre-del-agente`. No se ejecutan en
+paralelo cuando hay una dependencia: el plan general es el contexto de entrada para
+la especializacion posterior. Si solo se necesita hipertrofia, omite el paso general.
 
 ## Uso de planes personales
 
