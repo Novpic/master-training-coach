@@ -29,6 +29,12 @@
 - If the first agent requests essential information or pauses at its safety gate, return its questions/guidance to the user and do not invoke the second agent until the user responds and a safe baseline plan is available. Do not use the second agent to bypass a safety restriction.
 - If user intent is purely hypertrophy, a general `gym-coach` pass is unnecessary. If intent is unclear between a general routine and hypertrophy specialization, ask one brief clarification before delegation.
 
+## Personal training profile persistence
+
+- When a user supplies or corrects personal training-profile information, save the user-reported facts in a matching private profile file under `datos/` during the same task, before finishing. For Camilo, use `datos/datos-camilo.md`.
+- Date each update and identify it as a user report. Preserve earlier dated facts when a status changes; distinguish current status, preferences, and plans from historical information. Keep unknowns explicit and do not add inferences, diagnoses, or calculated claims as user facts.
+- Never mix another person's details into Camilo's profile. If the person's identity or profile destination is unclear, ask before saving; otherwise use a separate matching profile file. Keep entries limited to details relevant to the requested training support.
+
 ## Verification
 
 - No automated validation commands are configured; verification consists of rereading changes against their sources, checking metadata and links, and reviewing documentary consistency.
