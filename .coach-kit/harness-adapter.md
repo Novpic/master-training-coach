@@ -8,7 +8,7 @@ They must preserve the behavior in `protocol.md` and may only add:
 - concise domain-specific instructions for the selected coach;
 - tool restrictions needed to enforce the protocol.
 
-When adding a Claude, `.agent`, or other harness adapter:
+When adding a Claude, Codex, `.agent`, or other harness adapter:
 
 1. Read `AGENTS.md` and `.coach-kit/protocol.md`.
 2. Read the selected coach folder's `evidence-base.md` and `formulas.md`.
@@ -19,6 +19,15 @@ When adding a Claude, `.agent`, or other harness adapter:
 5. Do not copy the kit into the harness directory or expose internal evidence
    paths in user-facing output.
 
-OpenCode currently uses `.opencode/agents/` as its adapter directory. The
-research agents in `.agent/` are separate roles and should continue following
+OpenCode uses `.opencode/agents/` as its native agent directory. The research
+agents in `.agent/` are separate repository roles and should continue following
 the evidence-audit workflow rather than being treated as training coaches.
+
+Claude Code project subagents use `.claude/agents/` and require `name` and
+`description` frontmatter. Codex uses `.codex/agents/*.toml` with
+`name`, `description`, and `developer_instructions`. Both directories contain
+full generated prompts and therefore execute through their native separated
+context mechanisms.
+
+Portable instructions are generated under `.agents/skills/`. Run
+`python3 .agents/generate-adapters.py` after changing an OpenCode prompt.

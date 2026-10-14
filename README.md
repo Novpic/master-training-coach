@@ -23,9 +23,15 @@ fotografias, mediciones y datos personales permanecen fuera de Git.
 │   ├── referencia.bib        # Bibliografia normalizada
 │   └── *.md                  # Temas educativos publicados
 ├── .agent/                   # Roles y criterios de investigacion
+├── .agents/                  # Instrucciones portables y generador de adapters
+│   └── skills/               # Agent Skills compartibles entre harnesses
 ├── .coach-kit/               # Contrato y soporte de coaches, reutilizable por cualquier harness
 ├── .opencode/                # Adaptadores de agentes y skills locales
 │   └── agents/               # Solo definiciones de agentes (orquestador, 7 coaches, investigacion)
+├── .claude/                  # Adaptadores de subagentes para Claude Code
+│   └── agents/               # Definiciones de subagentes del proyecto
+├── .codex/                   # Adaptadores de subagentes para Codex
+│   └── agents/               # Definiciones TOML del proyecto
 ├── datos/                    # Perfiles privados datos-<nombre>.md, ignorado por Git
 ├── planes/                   # Planes generados, privado, ignorado por Git
 └── docs/fotos/               # Privado, ignorado por Git

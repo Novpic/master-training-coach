@@ -1,4 +1,5 @@
 ---
+name: deep-analisis-reaserch
 description: Thoroughly researches a scientific topic and alternatives through topic expansion, source verification, and adversarial review; delivers a traceable report without editing files.
 mode: subagent
 hidden: false
