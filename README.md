@@ -1,120 +1,84 @@
 # Evidence-Based Training Plan
 
-Documentation repository for researching and organizing knowledge about strength,
-running, hypertrophy, sports nutrition, and recovery.
+An AI-assisted training workspace for turning scientific evidence into a
+coherent, practical plan for strength, hypertrophy, running, nutrition, and
+recovery.
 
-## Purpose
+## Why This Exists
 
-The repository separates general evidence from personal plans. Public
-documentation serves as an educational foundation and must preserve source
-traceability, applicability limits, and access status. Individualized plans,
-photographs, measurements, and personal data remain outside Git.
+Training information is often fragmented. A coach may be useful for writing a
+routine, while the relevant research is spread across papers, reviews, position
+statements, and different websites. Finding a good answer can require searching
+trainer by trainer, topic by topic, or paper by paper.
 
-## Structure
+This repository was created to make that process more useful and connected. The
+AI agents are designed to help a person:
 
-```text
-.
-├── README.md                 # General map and workflow rules
-├── AGENTS.md                 # Repository operating instructions
-├── docs/                     # Versioned educational documentation
-│   ├── README.md             # Collection index and scope
-│   ├── metodologia/          # Research, writing, and audit workflow
-│   ├── bibliografia.md       # Thematic reference index
-│   ├── referencia.bib        # Normalized bibliography
-│   └── *.md                  # Published educational topics
-├── .agent/                   # Research roles and criteria
-├── .agents/                  # Portable instructions and adapter generator
-│   └── skills/               # Agent Skills shared across harnesses
-├── .coach-kit/               # Coach contract and support, reusable by any harness
-├── .opencode/                # Local agent and skill adapters
-│   └── agents/               # Agent definitions only: orchestrator, 7 coaches, research
-├── .claude/                  # Claude Code subagent adapters
-│   └── agents/               # Project subagent definitions
-├── .codex/                   # Codex subagent adapters
-│   └── agents/               # Project TOML definitions
-├── datos/                    # Private datos-<name>.md profiles, ignored by Git
-├── planes/                   # Generated plans, private, ignored by Git
-└── docs/fotos/               # Private, ignored by Git
-```
+- Turn a goal, schedule, experience, equipment, and constraints into a practical
+  training plan.
+- Connect strength training with hypertrophy, running, nutrition, and recovery
+  instead of treating each topic as an isolated program.
+- Use research as decision support rather than copying a single study into a
+  universal rule.
+- Keep a dated personal profile so the agent does not ask the same questions in
+  every conversation.
+- Review symptoms, fatigue, recovery, and scheduling conflicts before adding
+  more training.
+- Produce local, dated plan files that can be reviewed and updated over time.
 
-The `planes/`, `datos/`, and `docs/fotos/` directories are excluded from Git
-because they contain plans, profiles, photographs, and other private data.
+The goal is not to replace a qualified coach, physician, dietitian, or other
+professional. The goal is to reduce the distance between the evidence and a
+well-organized training decision.
 
-## How To Work
+## What This Repository Can Do
 
-1. Before researching, define the question, population, intervention or exposure,
-   comparator, outcomes, duration, and exclusions.
-2. Read `AGENTS.md`, the applicable methodology, and the most recent audit.
-3. Use `docs/metodologia/plantilla-investigacion.md` for new research.
-4. Prioritize systematic reviews, meta-analyses, consensus statements, guidelines,
-   and relevant primary studies. Verify identifiers through an independent source.
-5. Always separate source findings, interpretation, and practical application.
-6. Add citations next to material claims and synchronize `docs/bibliografia.md`
-   with `docs/referencia.bib`.
-7. Review links, identifiers, contradictions, legal access, and extrapolations
-   before publishing changes.
-8. Request a re-audit when a change affects recommendations, figures, safety, or
-   the scope of a conclusion.
+Given a person's profile and request, the agents can help create or review:
 
-## Training Plan Agents
-
-The recommended approach is to select `training-plan-orchestrator` with Tab as the
-primary agent or invoke it with `@training-plan-orchestrator`. It asks only once
-for information missing from the profile, runs coaches in dependency order, and
-combines their results into a master plan.
-
-| Agent | Purpose |
+| Area | Possible output |
 | --- | --- |
-| `@gym-coach` | General strength plan: one table per day, main exercises, core work, and progression. |
-| `@hypertrophy-coach` | New hypertrophy plan or refinement of a `gym-coach` plan. |
-| `@running-coach` | Running or run/walk plan around the strength schedule. |
-| `@concurrent-training-coach` | Places completed sessions into the week without changing prescriptions. |
-| `@sports-nutrition-coach` | Nutrition strategy, daily menus, shopping list, and budget substitutions. |
-| `@recovery-health-coach` | Recovery and safety review; also runs first when symptoms are present. |
-| `@fat-loss-coach` | Fat-loss implementation using completed plans; always runs last. |
+| Strength | Day-by-day resistance plan with exercises, sets, repetitions, rest, effort, core work, and progression. |
+| Hypertrophy | Muscle-growth specialization, volume distribution, priority decisions, and plan refinements. |
+| Running | Running or run/walk schedule that respects the existing strength plan. |
+| Concurrent training | A weekly calendar that places existing strength and running sessions without rewriting them. |
+| Nutrition | Nutrition strategy, optional meal plans, shopping list, and practical or budget substitutions. |
+| Recovery and safety | Review of sleep, fatigue, pain, symptoms, training stress, and recovery constraints. |
+| Fat loss | Implementation and monitoring after the relevant training, nutrition, and recovery plans exist. |
+| Research | Traceable evidence reviews with source metadata, limitations, access status, and practical interpretation. |
 
-All agents follow the shared contract in `.coach-kit/protocol.md`:
+The system can also identify missing information, ask only essential questions,
+pause when a safety concern requires human review, and preserve unknowns instead
+of inventing values.
 
-- They read `datos/datos-<name>.md` before asking questions and save new user-
-  reported facts there with a date.
-- They respond with a header, one table per day with fixed columns, and a final
-  `Handoff` block using one of five statuses: `COMPLETE`, `NEEDS_INPUT`,
-  `PAUSED_SAFETY`, `BLOCKED_DEPENDENCY`, or `NEEDS_REVISION`.
-- They save each result in `planes/<name>/<domain>/<YYYY-MM-DD>.md`; the
-  orchestrator combines them into `planes/<name>/master-plan/<YYYY-MM-DD>.md`.
-- They do not include citations or references in their responses; evidence in
-  `.coach-kit/` is for internal use only.
+## Quick Start
 
-Dependencies run sequentially, for example `gym-coach` before
-`hypertrophy-coach`, with `fat-loss-coach` always last. A safety pause stops the
-entire chain. `opencode.json` sets `experimental.subagent_depth: 2` so the
-orchestrator can delegate when invoked with `@`; restart OpenCode after modifying
-agents or configuration.
+You can use the repository through an AI coding assistant that supports the
+project agents. The simplest workflow is:
 
-## Personal Profiles
+1. Identify the person. Use an existing profile or say that this is a new person.
+2. Ask the orchestrator for a complete plan, or call one specialist directly.
+3. Answer the essential questions it asks.
+4. Review the resulting plan and any safety or recovery notes.
+5. Ask for updates when the schedule, goal, symptoms, equipment, or performance
+   changes.
 
-The `datos/datos-<name>.md` file is the canonical source for the private profile.
-It is read before asking questions and must distinguish current status, history,
-preferences, and pending information. Each new or corrected fact is added with a
-date and marked as a user report; previous records are not silently deleted. JSON
-files with the same name are secondary formats and may be outdated.
+### Complete Plan
 
-To update a profile from the conversation:
-
-```text
-Update Camilo's profile: [new fact or correction].
-Preserve the history, add today's date, and mark anything unconfirmed as pending.
-```
-
-To request a complete plan:
+Use the orchestrator when you want the agents to collect the shared intake and
+run the necessary specialists in the correct order:
 
 ```text
 @training-plan-orchestrator
-Use Camilo's profile and prepare a complete strength, running, nutrition, and recovery plan.
-Ask only for essential missing information and save the results in plans/camilo/.
+Use the profile of Camilo and prepare a complete plan for strength, running,
+nutrition, and recovery. Ask only for essential missing information.
 ```
 
-To request a specific domain, use the responsible agent:
+You can replace `Camilo` with an existing profile name or explicitly request a
+new profile. The orchestrator decides which specialists are needed and saves
+the completed artifacts under `planes/<name>/`.
+
+### One Area Only
+
+Use a specialist when the request is limited to one domain:
 
 ```text
 @gym-coach Use Camilo's profile to create or review his general strength plan.
@@ -126,33 +90,159 @@ To request a specific domain, use the responsible agent:
 @fat-loss-coach Implement fat-loss tracking after the previous plans are complete.
 ```
 
-The agent must identify the person before saving data. If the identity is ambiguous,
-ask whether this is for Camilo, Susana, a new person, or a request that should not
-save anything. To verify that private files remain ignored by Git:
+### Update a Profile
 
-```bash
-git status --short --ignored
-git check-ignore -v datos/datos-camilo.md datos/fotos/ planes/
+Tell the agent who the information belongs to and what changed:
+
+```text
+Update Camilo's profile: I now run three days per week and have no pain while running.
+Preserve the history, add today's date, and mark anything unconfirmed as pending.
 ```
 
-## Using Personal Plans
+The agent should save the new user-reported fact in the person's profile during
+the same task. It should not silently delete an older report when a status
+changes.
 
-Individual plans may be kept locally under `planes/`, but must not be uploaded to
-the repository or included in commits. Personal profiles under `datos/` are also
-excluded. To share a template, anonymize names, measurements, photographs,
-identifying dates, and any health data; place only the general template in `docs/`
-or `datos/`.
+## The Agents
 
-Before each commit, check the exclusions:
+The recommended entry point is `training-plan-orchestrator`, selected with Tab
+or invoked with `@training-plan-orchestrator`. It reads the profile, asks for
+missing essentials, routes the request, and combines completed outputs.
+
+| Agent | Owns |
+| --- | --- |
+| `@training-plan-orchestrator` | Shared intake, routing, dependency order, and the master plan. |
+| `@gym-coach` | General resistance training: split, exercises, sets, repetitions, rest, effort, core, and progression. |
+| `@hypertrophy-coach` | Muscle-growth programming or specialization of an existing resistance plan. |
+| `@running-coach` | Running and run/walk programming around an existing strength schedule. |
+| `@concurrent-training-coach` | Week-level placement of already-written strength and endurance sessions. It does not rewrite them. |
+| `@sports-nutrition-coach` | Nutrition strategy, meal plans, shopping lists, and budget substitutions. It does not rewrite workouts. |
+| `@recovery-health-coach` | Recovery review, symptom review, and safety boundaries. It may run first when a safety concern appears. |
+| `@fat-loss-coach` | Fat-loss implementation and monitoring after the upstream plans are complete. |
+
+Dependencies run sequentially. For example, a hypertrophy refinement may require
+`gym-coach` first, concurrent scheduling requires the relevant modality plans,
+and `fat-loss-coach` runs last. A safety pause stops the chain rather than being
+worked around by another agent.
+
+## What Is Stored
+
+The repository separates public educational material from private personal work:
+
+```text
+.
+├── README.md                 # User guide and repository map
+├── AGENTS.md                 # Operating rules for agents and contributors
+├── docs/                     # Versioned educational documentation
+│   ├── README.md             # Documentation index and scope
+│   ├── metodologia/          # Research, writing, and audit workflow
+│   ├── bibliografia.md       # Thematic reference index
+│   ├── referencia.bib        # Normalized bibliography
+│   └── *.md                  # Published educational topics
+├── .agent/                   # Research roles and audit criteria
+├── .agents/                  # Portable instructions and shared skills
+├── .coach-kit/               # Shared coach contract and internal support
+├── .opencode/                # OpenCode agent and skill adapters
+├── .claude/                  # Claude Code subagent adapters
+├── .codex/                   # Codex subagent adapters
+├── datos/                    # Private personal profiles, ignored by Git
+├── planes/                   # Private generated plans, ignored by Git
+└── docs/fotos/               # Private photos, ignored by Git
+```
+
+### Personal Profiles
+
+`datos/datos-<name>.md` is the canonical private profile. It can contain:
+
+- Current goals, schedule, preferences, and available equipment.
+- Training background and reported capacities.
+- Health, pain, mobility, and recovery information relevant to safe planning.
+- Optional measurements and consumer-device readings, clearly labeled with their
+  date and source.
+- Historical reports that should not be confused with current status.
+- A `Pendientes de confirmar` or pending-information section.
+
+The profile is read before questions are asked. Same-name JSON files are secondary
+formats and may be outdated; agents must not silently merge them into the Markdown
+profile. Profiles are private and excluded from Git.
+
+### Plan Artifacts
+
+Completed outputs are saved locally using this structure:
+
+```text
+planes/<name>/<domain>/<YYYY-MM-DD>.md
+planes/<name>/master-plan/<YYYY-MM-DD>.md
+```
+
+The shared coach contract in `.coach-kit/protocol.md` defines the handoff format,
+fixed table columns, dependencies, safety gate, and result statuses:
+
+- `COMPLETE`
+- `NEEDS_INPUT`
+- `PAUSED_SAFETY`
+- `BLOCKED_DEPENDENCY`
+- `NEEDS_REVISION`
+
+## Evidence And Research
+
+The repository is also a research workspace. When adding or reviewing educational
+content, the process should:
+
+1. Define the question, population, intervention or exposure, comparator,
+   outcomes, duration, and exclusions.
+2. Prioritize systematic reviews, meta-analyses, consensus statements, guidelines,
+   and relevant primary studies.
+3. Confirm DOI, PMID, publisher, or another identifier independently.
+4. Separate what the source found from its interpretation and practical use.
+5. State the population, units, duration, limitations, and access status.
+6. Keep `docs/bibliografia.md` and `docs/referencia.bib` synchronized.
+7. Request a re-audit when recommendations, figures, safety, or the scope of a
+   conclusion changes.
+
+Use `docs/metodologia/README.md` and
+`docs/metodologia/plantilla-investigacion.md` for the detailed workflow.
+
+The coaching agents use internal evidence support from `.coach-kit/`. Their
+user-facing outputs do not include citations or a bibliography. Research requests
+should use the repository's research workflow when source details are needed.
+
+## Privacy And Git
+
+Personal profiles, plans, photos, measurements, and other private data must remain
+local. Before committing, verify that private paths are ignored:
 
 ```bash
 git status --short --ignored
 git check-ignore -v planes/ datos/ docs/fotos/
 ```
 
-## Evidence Status
+To share a template, anonymize names, measurements, photographs, identifying dates,
+and health information. Put only the general template or educational material in
+`docs/` or another intentionally public location.
 
-The documentation is educational and does not replace medical evaluation. It does
-not provide individualized clinical recommendations. Unconfirmed claims must be
-marked as `Not verified`, and access to a bibliographic record must not be confused
-with access to the full text.
+## Scope And Safety
+
+This project is intended for general education and planning for healthy adults and
+recreational populations. It does not diagnose, treat, rehabilitate, or replace a
+qualified professional.
+
+Mention pain, injury, illness, pregnancy, medication, disordered-eating concerns,
+or other safety-relevant information directly in the request. The recovery and
+safety workflow may pause the plan and recommend appropriate human review.
+
+The agents should not infer health, goals, capacity, or nutritional needs from
+appearance, sex, gender, BMI, a consumer-scale label, or one isolated performance
+value. Unknown loads, paces, calories, and targets should be calibrated rather than
+invented.
+
+Unconfirmed research claims must be marked `Not verified`. A bibliographic record
+must not be confused with access to the full paper, and a paper must not be turned
+into a universal prescription without considering its population and limitations.
+
+## Repository Status
+
+This is a documentation and agent-workflow repository, not a packaged application.
+It currently has no automated build, test suite, linter, or CI command. Verification
+is performed by reviewing the changed documents, checking identifiers and links,
+and confirming that private paths remain ignored.
