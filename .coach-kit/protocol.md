@@ -1,6 +1,6 @@
 # Coach Kit Protocol
 
-Shared operating contract for `training-plan-orchestrator` and its seven coaches. Every coach reads this file at the start of each run. An agent's own prompt adds domain rules; where it is more specific, it wins for that domain.
+Shared, harness-neutral operating contract for `training-plan-orchestrator` and its seven coaches. Every coach reads this file at the start of each run, whether invoked through OpenCode, Claude, or another repository agent harness. An agent's own prompt adds domain rules; where it is more specific, it wins for that domain.
 
 Design goals: ask once, reuse everything, keep one owner per decision, and make every output mergeable.
 
@@ -8,11 +8,12 @@ Design goals: ask once, reuse everything, keep one owner per decision, and make 
 
 | Path | Contents |
 | --- | --- |
-| `.opencode/agents/<agent>.md` | Agent definitions only. OpenCode registers every Markdown file under `.opencode/agents/` (recursively) as an agent, so support files never go there. |
-| `.opencode/coach-kit/protocol.md` | This contract. |
-| `.opencode/coach-kit/<agent>/evidence-base.md` | Internal evidence digest. Never cited to the user. |
-| `.opencode/coach-kit/<agent>/formulas.md` | Allowed arithmetic and its limits. |
-| `.opencode/coach-kit/<agent>/*_math.py` | Arithmetic helper: one JSON object in, JSON out. |
+| `.opencode/agents/<agent>.md` | OpenCode adapter definitions only. OpenCode registers every Markdown file under `.opencode/agents/` (recursively) as an agent, so support files never go there. |
+| `.agent/` | Repository research-agent adapters and evidence workflow instructions. |
+| `.coach-kit/protocol.md` | This shared contract. |
+| `.coach-kit/<agent>/evidence-base.md` | Internal evidence digest. Never cited to the user. |
+| `.coach-kit/<agent>/formulas.md` | Allowed arithmetic and its limits. |
+| `.coach-kit/<agent>/*_math.py` | Arithmetic helper: one JSON object in, JSON out. |
 | `datos/datos-<slug>.md` | Private profile of user-reported facts (Git-ignored). |
 | `planes/<slug>/<domain>/<YYYY-MM-DD>.md` | Saved deliverables (Git-ignored). |
 
@@ -219,7 +220,7 @@ Each coach adds domain triggers. Check before any calculation or plan.
 - Invoke exactly like this — the permission rule only allows this form:
 
   ```bash
-  python3 .opencode/coach-kit/<agent>/<helper>.py --stdin <<'JSON'
+  python3 .coach-kit/<agent>/<helper>.py --stdin <<'JSON'
   {"weight_kg": 78, "height_cm": 175}
   JSON
   ```

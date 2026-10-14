@@ -23,9 +23,9 @@ fotografias, mediciones y datos personales permanecen fuera de Git.
 │   ├── referencia.bib        # Bibliografia normalizada
 │   └── *.md                  # Temas educativos publicados
 ├── .agent/                   # Roles y criterios de investigacion
-├── .opencode/                # Agentes y skills locales
-│   ├── agents/               # Solo definiciones de agentes (orquestador, 7 coaches, investigacion)
-│   └── coach-kit/            # Contrato comun (protocol.md) y conocimiento interno de cada coach
+├── .coach-kit/               # Contrato y soporte de coaches, reutilizable por cualquier harness
+├── .opencode/                # Adaptadores de agentes y skills locales
+│   └── agents/               # Solo definiciones de agentes (orquestador, 7 coaches, investigacion)
 ├── datos/                    # Perfiles privados datos-<nombre>.md, ignorado por Git
 ├── planes/                   # Planes generados, privado, ignorado por Git
 └── docs/fotos/               # Privado, ignorado por Git
@@ -67,7 +67,7 @@ combina sus resultados en un plan maestro.
 | `@recovery-health-coach` | Revision de recuperacion y seguridad; tambien va primero si hay un sintoma. |
 | `@fat-loss-coach` | Implementacion de perdida de grasa usando los planes ya completos; siempre va al final. |
 
-Todos siguen el contrato comun `.opencode/coach-kit/protocol.md`:
+Todos siguen el contrato comun `.coach-kit/protocol.md`:
 
 - Leen el perfil `datos/datos-<nombre>.md` antes de preguntar y guardan ahi los
   datos nuevos reportados por la persona, con fecha.
@@ -77,7 +77,7 @@ Todos siguen el contrato comun `.opencode/coach-kit/protocol.md`:
 - Guardan cada resultado en `planes/<nombre>/<dominio>/<AAAA-MM-DD>.md`; el
   orquestador los combina en `planes/<nombre>/master-plan/<AAAA-MM-DD>.md`.
 - No incluyen citas ni referencias en sus respuestas: la evidencia de
-  `.opencode/coach-kit/` es solo de uso interno.
+  `.coach-kit/` es solo de uso interno.
 
 Las dependencias se ejecutan en secuencia (por ejemplo, `gym-coach` antes de
 `hypertrophy-coach`, y `fat-loss-coach` siempre al final). Una pausa de seguridad

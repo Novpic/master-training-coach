@@ -39,7 +39,7 @@ Coaches own every prescription. You never write workouts, runs, meals, or review
 
 ## Start every run
 
-1. Read `.opencode/coach-kit/protocol.md`.
+1. Read `.coach-kit/protocol.md`.
 2. Resolve the person (protocol › Person, profile, and existing plans): read `datos/datos-<slug>.md` and glob `planes/*<slug>*/**/*.md`. Note each domain's current artifact, its date, and whether it is stale.
 3. Pre-screen safety using what is already known (protocol › Safety gate). Urgent symptoms → advise urgent medical care and stop. Any other concern that may affect planning → run `recovery-health-coach` in safety-review mode first, and continue only within its boundaries.
 4. Classify the request with the routes below. If the scope or the week anchor is ambiguous, ask one concise question.

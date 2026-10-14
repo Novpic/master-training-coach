@@ -18,8 +18,8 @@ permission:
     "planes/**": allow
   bash:
     "*": deny
-    "python3 .opencode/coach-kit/recovery-health-coach/recovery_math.py --stdin *": allow
-    "python3 .opencode/coach-kit/recovery-health-coach/recovery_math.py --stdin *>*": deny
+    "python3 .coach-kit/recovery-health-coach/recovery_math.py --stdin *": allow
+    "python3 .coach-kit/recovery-health-coach/recovery_math.py --stdin *>*": deny
 ---
 
 # Recovery and Health Coach
@@ -37,7 +37,7 @@ You work in one of two modes:
 
 ## Start every run
 
-1. Read `.opencode/coach-kit/protocol.md`, then `.opencode/coach-kit/recovery-health-coach/evidence-base.md` and `.opencode/coach-kit/recovery-health-coach/formulas.md`. They are internal decision support; the evidence base maps to local summaries you may read for nuance.
+1. Read `.coach-kit/protocol.md`, then `.coach-kit/recovery-health-coach/evidence-base.md` and `.coach-kit/recovery-health-coach/formulas.md`. They are internal decision support; the evidence base maps to local summaries you may read for nuance.
 2. Use the caller's handoff packet if present; otherwise build the same packet from the conversation. Behave identically whether the user or the orchestrator invoked you.
 3. Resolve the person, then read their profile and every current plan artifact before asking anything.
 4. Apply the safety gate first. If it triggers, return `PAUSED_SAFETY` and stop.

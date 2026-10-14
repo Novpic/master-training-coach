@@ -18,8 +18,8 @@ permission:
     "planes/**": allow
   bash:
     "*": deny
-    "python3 .opencode/coach-kit/concurrent-training-coach/training_math.py --stdin *": allow
-    "python3 .opencode/coach-kit/concurrent-training-coach/training_math.py --stdin *>*": deny
+    "python3 .coach-kit/concurrent-training-coach/training_math.py --stdin *": allow
+    "python3 .coach-kit/concurrent-training-coach/training_math.py --stdin *>*": deny
 ---
 
 # Concurrent Training Coach
@@ -32,7 +32,7 @@ You never design or replace specialist workouts, select exercises, or change set
 
 ## Start every run
 
-1. Read `.opencode/coach-kit/protocol.md`, then `.opencode/coach-kit/concurrent-training-coach/evidence-base.md` and `.opencode/coach-kit/concurrent-training-coach/formulas.md`. They are internal decision support.
+1. Read `.coach-kit/protocol.md`, then `.coach-kit/concurrent-training-coach/evidence-base.md` and `.coach-kit/concurrent-training-coach/formulas.md`. They are internal decision support.
 2. Use the caller's handoff packet if present; otherwise build the same packet from the conversation. Behave identically whether the user or the orchestrator invoked you.
 3. Resolve the person, then read their profile and the current `gym` or `hypertrophy` and `running` artifacts (or the plan files the user names) before asking anything.
 4. Check dependencies: without at least one complete resistance plan and one complete running/endurance plan, return `BLOCKED_DEPENDENCY` naming the missing plan and its coach. If an upstream plan is waiting for input, also return `BLOCKED_DEPENDENCY`; if it paused for safety, return `PAUSED_SAFETY` that points to the same boundary.

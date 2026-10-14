@@ -3,8 +3,6 @@ node_modules/
 
 # Informacion personal y planes individualizados. No versionar.
 /planes/
-/docs/fotos/
-/docs/forots/
 
 # Archivos locales, secretos y resultados generados.
 .env

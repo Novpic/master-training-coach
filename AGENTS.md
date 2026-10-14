@@ -6,7 +6,7 @@
 - `docs/` contains the educational documentation; `docs/metodologia/README.md` is the source of truth for researching and publishing new topics.
 - `docs/bibliografia.md` is the subject index and `docs/referencia.bib` is the normalized bibliography; keep them synchronized with citations in the documents.
 - `.agent/verificador-verdad-deportiva.md` defines the independent audit, and `.agent/investigador-ejecutor-evidencia.md` defines the research and subsequent editing process.
-- `.opencode/agents/` contains only agent definitions: `training-plan-orchestrator`, its seven coaches (`gym-coach`, `hypertrophy-coach`, `running-coach`, `concurrent-training-coach`, `sports-nutrition-coach`, `recovery-health-coach`, `fat-loss-coach`), and the research agents. OpenCode registers every Markdown file under `.opencode/agents/` as an agent, so coach support files live in `.opencode/coach-kit/`: the shared contract `protocol.md` plus one folder per coach with its internal evidence digest, formula guide, and arithmetic helper.
+- `.opencode/agents/` contains only agent definitions: `training-plan-orchestrator`, its seven coaches (`gym-coach`, `hypertrophy-coach`, `running-coach`, `concurrent-training-coach`, `sports-nutrition-coach`, `recovery-health-coach`, `fat-loss-coach`), and the research agents. OpenCode registers every Markdown file under `.opencode/agents/` as an agent, so shared coach support lives in the harness-neutral `.coach-kit/`: the shared contract `protocol.md` plus one folder per coach with its internal evidence digest, formula guide, and arithmetic helper.
 
 ## Required workflow
 
@@ -22,8 +22,8 @@
 
 ## Training-plan agent workflow
 
-- `.opencode/coach-kit/protocol.md` is the shared contract for every coach: intake field IDs, handoff packet, result envelope and statuses (`COMPLETE`, `NEEDS_INPUT`, `PAUSED_SAFETY`, `BLOCKED_DEPENDENCY`, `NEEDS_REVISION`), day keys and table columns, artifact paths, and the shared safety gate. Coaches behave the same whether the user or the orchestrator invokes them.
-- No coach emits citations, references, or source details to the user; the evidence digests in `.opencode/coach-kit/` are internal decision support only.
+- `.coach-kit/protocol.md` is the shared contract for every coach, regardless of harness: intake field IDs, handoff packet, result envelope and statuses (`COMPLETE`, `NEEDS_INPUT`, `PAUSED_SAFETY`, `BLOCKED_DEPENDENCY`, `NEEDS_REVISION`), day keys and table columns, artifact paths, and the shared safety gate. Coaches behave the same whether the user or the orchestrator invokes them.
+- No coach emits citations, references, or source details to the user; the evidence digests in `.coach-kit/` are internal decision support only.
 - Use `gym-coach` for general resistance-training plans across goals. It provides the broad intake, schedule, movement coverage, requested lifts, core work, and a separate plan table for each training day.
 - Use `hypertrophy-coach` for muscle-growth specialization. Its final plan also uses one table per training day, followed by explanation.
 - Use `running-coach` for running and run/walk plans; a current resistance plan is a scheduling constraint for it, not something to rewrite.

@@ -18,8 +18,8 @@ permission:
     "planes/**": allow
   bash:
     "*": deny
-    "python3 .opencode/coach-kit/sports-nutrition-coach/nutrition_math.py --stdin *": allow
-    "python3 .opencode/coach-kit/sports-nutrition-coach/nutrition_math.py --stdin *>*": deny
+    "python3 .coach-kit/sports-nutrition-coach/nutrition_math.py --stdin *": allow
+    "python3 .coach-kit/sports-nutrition-coach/nutrition_math.py --stdin *>*": deny
 ---
 
 # Sports Nutrition Coach
@@ -34,7 +34,7 @@ Use only the local knowledge files and the user's context. Never browse, fetch, 
 
 ## Start every run
 
-1. Read `.opencode/coach-kit/protocol.md`, then `.opencode/coach-kit/sports-nutrition-coach/evidence-base.md` and `.opencode/coach-kit/sports-nutrition-coach/formulas.md`. They are internal decision support.
+1. Read `.coach-kit/protocol.md`, then `.coach-kit/sports-nutrition-coach/evidence-base.md` and `.coach-kit/sports-nutrition-coach/formulas.md`. They are internal decision support.
 2. Use the caller's handoff packet if present; otherwise build the same packet from the conversation. Behave identically whether the user or the orchestrator invoked you.
 3. Resolve the person, then read their profile and current plans before asking anything. For training context prefer the newest `concurrent-week` artifact, otherwise the modality plans, otherwise the schedule the user describes.
 4. If the packet says the exercise plan this nutrition depends on is still being created, return `BLOCKED_DEPENDENCY`.
