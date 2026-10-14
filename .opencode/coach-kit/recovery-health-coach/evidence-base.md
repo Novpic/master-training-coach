@@ -49,7 +49,7 @@ Summary: `docs/referencias/papers-md-resume/bertelsen2017etiology/bertelsen2017e
 
 Summary: `docs/referencias/papers-md-resume/johnston2018enduranceinjury/johnston2018enduranceinjury-resume.md`.
 
-- The orchestrator may pass this summary for running-context discussions; its observational endurance cohorts had varied populations and injury/load definitions and mixed results. Do not infer causal or individual risk thresholds from distance, frequency, BMI, or history.
+- Relevant to running-context discussions; its observational endurance cohorts had varied populations and injury/load definitions and mixed results. Do not infer causal or individual risk thresholds from distance, frequency, BMI, or history.
 
 ## Tapering — `bosquet2007tapering`
 

@@ -27,11 +27,22 @@ def _positive_number(value: Any, field: str) -> float:
 def calculate(payload: dict[str, Any]) -> dict[str, Any]:
     result: dict[str, Any] = {}
 
-    if "weight_kg" in payload or "height_m" in payload:
-        if "weight_kg" not in payload or "height_m" not in payload:
-            raise ValueError("BMI arithmetic needs both weight_kg and height_m")
+    has_weight = "weight_kg" in payload
+    has_height_m = "height_m" in payload
+    has_height_cm = "height_cm" in payload
+    if has_height_m and has_height_cm:
+        raise ValueError("provide only one of height_m or height_cm")
+    if has_weight or has_height_m or has_height_cm:
+        if not has_weight or not (has_height_m or has_height_cm):
+            raise ValueError("BMI arithmetic needs weight_kg and one height unit (height_m or height_cm)")
         weight = _positive_number(payload["weight_kg"], "weight_kg")
-        height = _positive_number(payload["height_m"], "height_m")
+        height = _positive_number(
+            payload["height_m"] if has_height_m else payload["height_cm"],
+            "height_m" if has_height_m else "height_cm",
+        )
+        # Accept both units so every coach helper shares the same BMI input contract.
+        if has_height_cm:
+            height /= 100
         result["bmi_kg_m2"] = round(weight / (height * height), 2)
         result["bmi_note"] = "Raw height/weight ratio only; not a diagnosis or body-composition measure."
 

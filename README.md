@@ -24,9 +24,10 @@ fotografias, mediciones y datos personales permanecen fuera de Git.
 │   └── *.md                  # Temas educativos publicados
 ├── .agent/                   # Roles y criterios de investigacion
 ├── .opencode/                # Agentes y skills locales
-│   └── agents/               # Orquestador de planes, gym-coach e hypertrophy-coach
-├── datos/                    # Datos anonimizados o plantillas no sensibles
-├── planes/                   # Privado, ignorado por Git
+│   ├── agents/               # Solo definiciones de agentes (orquestador, 7 coaches, investigacion)
+│   └── coach-kit/            # Contrato comun (protocol.md) y conocimiento interno de cada coach
+├── datos/                    # Perfiles privados datos-<nombre>.md, ignorado por Git
+├── planes/                   # Planes generados, privado, ignorado por Git
 └── docs/fotos/               # Privado, ignorado por Git
 ```
 
@@ -51,29 +52,44 @@ variante del nombre; la carpeta existente actualmente es `docs/fotos/`.
 
 ## Agentes para planes de entrenamiento
 
-- `@gym-coach` crea planes generales de entrenamiento de resistencia para distintos
-  objetivos. Organiza la rutina en una tabla por dia e incluye trabajo de core salvo
-  que la persona lo descarte, falte tiempo/equipo o exista una restriccion.
-- `@hypertrophy-coach` se especializa en crecimiento muscular, prioridades por
-  grupo muscular, volumen directo semanal y progresion. Devuelve una tabla separada
-  por cada dia de entrenamiento y no incluye citas ni referencias en su respuesta.
-- `@training-plan-orchestrator` enruta la solicitud y delega en los agentes
-  especializados. Para una solicitud general usa primero `gym-coach`. Para una
-  solicitud exclusivamente de hipertrofia puede llamar directamente a
-  `hypertrophy-coach`. Si se pide un plan general refinado para hipertrofia, ejecuta
-  en secuencia `gym-coach` y luego `hypertrophy-coach`; el segundo recibe el plan
-  completo y lo refina sin repetir la entrevista ni alterar dias, duracion, equipo,
-  restricciones, ejercicios principales o core solicitado sin una razon explicita.
+La forma recomendada es seleccionar `training-plan-orchestrator` con Tab (agente
+primario) o invocarlo con `@training-plan-orchestrator`. Pide en una sola ronda solo
+los datos que faltan en el perfil, ejecuta los coaches en orden de dependencia y
+combina sus resultados en un plan maestro.
 
-Los agentes se invocan en OpenCode con `@nombre-del-agente`. No se ejecutan en
-paralelo cuando hay una dependencia: el plan general es el contexto de entrada para
-la especializacion posterior. Si solo se necesita hipertrofia, omite el paso general.
+| Agente | Para que sirve |
+| --- | --- |
+| `@gym-coach` | Plan general de fuerza: una tabla por dia, ejercicios principales, core y progresion. |
+| `@hypertrophy-coach` | Plan de hipertrofia nuevo o refinamiento de un plan de `gym-coach`. |
+| `@running-coach` | Plan de carrera o carrera/caminata alrededor del horario de fuerza. |
+| `@concurrent-training-coach` | Organiza en la semana las sesiones ya escritas; no cambia prescripciones. |
+| `@sports-nutrition-coach` | Estrategia nutricional, menus por dia, lista de compras y sustituciones economicas. |
+| `@recovery-health-coach` | Revision de recuperacion y seguridad; tambien va primero si hay un sintoma. |
+| `@fat-loss-coach` | Implementacion de perdida de grasa usando los planes ya completos; siempre va al final. |
+
+Todos siguen el contrato comun `.opencode/coach-kit/protocol.md`:
+
+- Leen el perfil `datos/datos-<nombre>.md` antes de preguntar y guardan ahi los
+  datos nuevos reportados por la persona, con fecha.
+- Responden con un encabezado, una tabla por dia con columnas fijas y un bloque
+  `Handoff` final con uno de cinco estados: `COMPLETE`, `NEEDS_INPUT`,
+  `PAUSED_SAFETY`, `BLOCKED_DEPENDENCY` o `NEEDS_REVISION`.
+- Guardan cada resultado en `planes/<nombre>/<dominio>/<AAAA-MM-DD>.md`; el
+  orquestador los combina en `planes/<nombre>/master-plan/<AAAA-MM-DD>.md`.
+- No incluyen citas ni referencias en sus respuestas: la evidencia de
+  `.opencode/coach-kit/` es solo de uso interno.
+
+Las dependencias se ejecutan en secuencia (por ejemplo, `gym-coach` antes de
+`hypertrophy-coach`, y `fat-loss-coach` siempre al final). Una pausa de seguridad
+detiene toda la cadena. `opencode.json` define `experimental.subagent_depth: 2`
+para que el orquestador tambien pueda delegar cuando se invoca con `@`; reinicia
+OpenCode despues de modificar agentes o configuracion.
 
 ## Uso de planes personales
 
 Los planes individuales pueden mantenerse localmente bajo `planes/`, pero no deben
-subirse al repositorio ni incluirse en commits. Los archivos personales con el
-patron `datos/datos-camilo.*` tambien quedan excluidos. Para compartir una
+subirse al repositorio ni incluirse en commits. Los perfiles personales de `datos/`
+tambien quedan excluidos. Para compartir una
 plantilla, anonimiza nombres, medidas, fotografias, fechas identificables y
 cualquier dato de salud; coloca solo la plantilla general en `docs/` o `datos/`.
 
@@ -81,7 +97,7 @@ Antes de cada commit comprueba las exclusiones:
 
 ```bash
 git status --short --ignored
-git check-ignore -v planes/ docs/fotos/ docs/forots/
+git check-ignore -v planes/ datos/ docs/fotos/ docs/forots/
 ```
 
 ## Estado de la evidencia

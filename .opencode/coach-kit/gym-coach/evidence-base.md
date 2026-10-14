@@ -1,6 +1,6 @@
 # Gym Coach Evidence Base
 
-This companion file is a self-contained, compact digest of the repository summaries most relevant to general gym resistance-training plans. It records study context and useful boundaries, not exhaustive critical appraisals. The underlying summary documents are under `docs/referencias/papers-md-resume/`; the repository's canonical bibliography is `docs/referencias/referencias.md`. This agent's evidence citations should stay within this local knowledge base unless a user explicitly requests fresh research.
+This companion file is a self-contained, compact digest of the repository summaries most relevant to general gym resistance-training plans. It records study context and useful boundaries, not exhaustive critical appraisals. The underlying summary documents are under `docs/referencias/papers-md-resume/`; the repository's canonical bibliography is `docs/referencias/referencias.md`. This file is internal decision support only: user-facing plans never cite these sources, their keys, or their identifiers.
 
 ## Program design, loading, and progression
 
@@ -117,4 +117,4 @@ American College of Sports Medicine. *Progression Models in Resistance Training 
 - A study's observed protocol or the authors' interpretation is not automatically an optimal prescription.
 - Do not use changes in BIA-estimated muscle, fat, water, or bone readings as a direct measure of trained muscle adaptation; hydration and method affect estimates (`ramoscampo2024split`, `refalo2025sex`).
 - Circumference changes can be tracked consistently over time, but these papers do not support inferring local fat loss from training a body part. Do not promise spot reduction.
-- The local paper summaries vary in population, outcome, duration, and methods. Cite the directly relevant reference key and explain the limitation rather than presenting a single pooled rule.
+- The local paper summaries vary in population, outcome, duration, and methods. Rely internally on the directly relevant summary and explain the practical limitation in plain language rather than presenting a single pooled rule.

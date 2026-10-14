@@ -27,6 +27,13 @@ def _number(value: Any, field: str, *, allow_zero: bool = False) -> float:
 def calculate(payload: dict[str, Any]) -> dict[str, Any]:
     result: dict[str, Any] = {}
 
+    has_height_m = "height_m" in payload
+    has_height_cm = "height_cm" in payload
+    if has_height_m and has_height_cm:
+        raise ValueError("provide only one of height_m or height_cm")
+    if (has_height_m or has_height_cm) and "weight_kg" not in payload:
+        raise ValueError("BMI arithmetic needs weight_kg and one height unit (height_m or height_cm)")
+
     if "weight_kg" in payload:
         weight = _number(payload["weight_kg"], "weight_kg")
 
@@ -51,9 +58,13 @@ def calculate(payload: dict[str, Any]) -> dict[str, Any]:
                 "not a universal target or suitable for every medical context."
             )
 
-        if "height_cm" in payload:
-            height_cm = _number(payload["height_cm"], "height_cm")
-            height_m = height_cm / 100
+        # Accept both units so every coach helper shares the same BMI input contract.
+        if has_height_m or has_height_cm:
+            height_m = (
+                _number(payload["height_m"], "height_m")
+                if has_height_m
+                else _number(payload["height_cm"], "height_cm") / 100
+            )
             result["bmi_kg_m2"] = round(weight / (height_m * height_m), 2)
             result["bmi_note"] = "Height/weight ratio only; not body composition, a diagnosis, or a nutrition target."
 
