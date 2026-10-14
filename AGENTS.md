@@ -5,6 +5,7 @@
 - This is a documentation repository, not an application: it has no manifest, build, tests, lint, CI, or configured development command.
 - `docs/` contains the educational documentation; `docs/metodologia/README.md` is the source of truth for researching and publishing new topics.
 - `docs/bibliografia.md` is the subject index and `docs/referencia.bib` is the normalized bibliography; keep them synchronized with citations in the documents.
+- `datos/datos-<slug>.md` is the canonical private profile for user-reported training facts. A same-name JSON file is secondary and may be outdated; do not silently merge it into the Markdown profile.
 - `.agent/verificador-verdad-deportiva.md` defines the independent audit, and `.agent/investigador-ejecutor-evidencia.md` defines the research and subsequent editing process.
 - `.opencode/agents/` contains only agent definitions: `training-plan-orchestrator`, its seven coaches (`gym-coach`, `hypertrophy-coach`, `running-coach`, `concurrent-training-coach`, `sports-nutrition-coach`, `recovery-health-coach`, `fat-loss-coach`), and the research agents. OpenCode registers every Markdown file under `.opencode/agents/` as an agent, so shared coach support lives in the harness-neutral `.coach-kit/`: the shared contract `protocol.md` plus one folder per coach with its internal evidence digest, formula guide, and arithmetic helper.
 
@@ -41,6 +42,16 @@
 - When a user supplies or corrects personal training-profile information, save the user-reported facts in a matching private profile file under `datos/` during the same task, before finishing. Profiles follow `datos/datos-<first-name>.md` (for example `datos/datos-camilo.md` and `datos/datos-susana.md`).
 - Date each update and identify it as a user report. Preserve earlier dated facts when a status changes; distinguish current status, preferences, and plans from historical information. Keep unknowns explicit and do not add inferences, diagnoses, or calculated claims as user facts.
 - Never mix one person's details into another person's profile. If the person's identity or profile destination is unclear, ask before saving; otherwise use a separate matching profile file. Keep entries limited to details relevant to the requested training support.
+- Read the profile before asking questions. Use its newest dated report for current status, retain older reports as history, and put unresolved information in a `Pendientes de confirmar` section.
+- For a new profile, use these sections: `Estado actual`, `Medidas corporales`, `Composición corporal y peso`, `Antecedentes de entrenamiento`, `Equipamiento`, `Historial de salud y movilidad`, `Marcas y capacidades reportadas`, dated update sections, and `Pendientes de confirmar`.
+
+## How users request profile updates or plans
+
+- To add or correct personal data, write it in the conversation and identify the person: `Actualiza el perfil de Camilo: ahora corro 3 días por semana y no tengo dolor al correr.` The agent must save the dated user report in `datos/datos-camilo.md` before completing the task.
+- To request a complete coordinated plan, invoke `@training-plan-orchestrator` or select it with Tab and say: `Usa el perfil de Camilo y prepara un plan completo de fuerza, carrera, nutrición y recuperación. Pregunta solo lo esencial que falte.`
+- To request one domain, invoke the owner directly: `@gym-coach`, `@hypertrophy-coach`, `@running-coach`, `@sports-nutrition-coach`, `@recovery-health-coach`, `@concurrent-training-coach`, or `@fat-loss-coach`.
+- If the request includes a safety concern, mention it plainly rather than asking the agent to work around it. The recovery/safety coach may pause the chain.
+- Agents must report whether the result is `COMPLETE`, `NEEDS_INPUT`, `PAUSED_SAFETY`, `BLOCKED_DEPENDENCY`, or `NEEDS_REVISION`, and save complete artifacts under `planes/<slug>/`.
 
 ## Verification
 
